@@ -1,0 +1,90 @@
+[2019-07-24T12:10:00.111Z] info server running
+[2019-07-24T12:15:53.008Z] info server running
+[2019-07-24T12:17:08.579Z] info server running
+[2019-07-24T12:17:37.238Z] info server running
+[2019-07-24T12:20:10.540Z] info server running
+[2019-07-24T12:20:24.195Z] info server running
+[2019-07-25T04:10:10.455Z] info server running
+[2019-07-25T04:18:55.637Z] info server running
+[2019-07-25T04:19:07.077Z] info server running
+[2019-07-25T04:19:40.646Z] info server running
+[2019-07-25T04:25:10.792Z] info server running
+[2019-07-25T04:46:14.664Z] info server running
+[2019-07-25T04:47:30.834Z] info server running
+[2019-07-25T04:49:09.750Z] info server running
+[2019-07-25T04:51:15.912Z] info server running
+[2019-07-25T04:54:29.363Z] info server running
+[2019-07-25T04:54:42.724Z] info server running
+[2019-07-25T04:57:51.611Z] info server running
+[2019-07-25T04:58:43.338Z] info server running
+[2019-07-25T04:59:13.671Z] info server running
+[2019-07-25T04:59:39.667Z] info server running
+[2019-07-25T05:01:53.647Z] info server running
+[2019-07-25T05:02:30.290Z] info server running
+[2019-07-25T05:02:34.214Z] info server running
+[2019-07-25T05:02:50.231Z] info server running
+[2019-07-25T05:05:29.301Z] info server running
+[2019-07-25T05:06:05.417Z] info server running
+[2019-07-25T05:06:08.704Z] info server running
+[2019-07-25T05:06:56.743Z] info server running
+[2019-07-25T05:08:21.300Z] info server running
+[2019-07-25T05:11:09.354Z] info server running
+[2019-07-25T05:12:28.586Z] info server running
+[2019-07-25T05:14:27.709Z] info server running
+[2019-07-25T05:16:03.165Z] info server running
+[2019-07-25T05:16:13.857Z] info error in insertion of data:Error: Unknown column 'D.O.B' in 'field list'
+[2019-07-25T05:16:54.353Z] info error in insertion of data:Error: Unknown column 'D.O.B' in 'field list'
+[2019-07-25T05:17:17.885Z] info server running
+[2019-07-25T05:17:21.627Z] info error in insertion of data:Error: Unknown column 'D.O.B' in 'field list'
+[2019-07-25T05:20:57.315Z] info error in insertion of data:Error: Incorrect date value: '23/11/1997' for column 'DOB' at row 1
+[2019-07-25T05:26:43.712Z] info server running
+[2019-07-25T05:27:14.817Z] info server running
+[2019-07-25T05:27:18.185Z] info error in insertion of data:ReferenceError: User is not defined
+[2019-07-25T05:27:30.750Z] info server running
+[2019-07-25T05:27:40.170Z] info server running
+[2019-07-25T05:28:01.639Z] info server running
+[2019-07-25T05:28:25.915Z] info server running
+[2019-07-25T05:28:33.846Z] info server running
+[2019-07-25T05:28:42.321Z] info server running
+[2019-07-25T05:29:23.778Z] info server running
+[2019-07-25T05:29:40.060Z] info server running
+[2019-07-25T05:30:06.687Z] info server running
+[2019-07-25T05:34:25.695Z] info server running
+[2019-07-25T05:34:31.768Z] info user exists
+[2019-07-25T05:37:41.717Z] info server running
+[2019-07-25T05:37:46.900Z] info user exists
+[2019-07-25T05:38:22.232Z] info user created
+[2019-07-25T05:38:53.875Z] info server running
+[2019-07-25T05:38:59.162Z] info error in insertion of data:Error: Data too long for column 'Password' at row 1
+[2019-07-25T05:39:52.408Z] info error in insertion of data:Error: Data too long for column 'Password' at row 1
+[2019-07-25T05:40:34.423Z] info user created
+[2019-07-25T05:40:46.387Z] info server running
+[2019-07-25T05:43:37.591Z] info server running
+[2019-07-25T05:45:30.690Z] info server running
+[2019-07-25T05:46:02.271Z] info server running
+[2019-07-25T05:46:08.183Z] info server running
+[2019-07-25T05:46:22.131Z] info server running
+[2019-07-25T05:47:50.425Z] info server running
+[2019-07-25T05:48:21.302Z] info server running
+[2019-07-25T05:49:02.754Z] info server running
+[2019-07-25T05:49:23.461Z] info server running
+[2019-07-25T05:49:54.418Z] info server running
+[2019-07-25T05:50:01.427Z] info server running
+[2019-07-25T05:50:04.345Z] info user sucesfully login
+[2019-07-25T05:50:18.014Z] info server running
+[2019-07-25T05:50:22.693Z] error enter correct password
+[2019-07-25T05:51:18.780Z] info server running
+[2019-07-25T05:51:30.781Z] info server running
+[2019-07-25T05:52:27.401Z] info username doesnot exists
+[2019-07-25T05:53:00.551Z] info username doesnot exists
+[2019-07-25T05:53:07.683Z] info user sucesfully login
+[2019-07-25T05:53:19.068Z] info username doesnot exists
+[2019-07-25T05:53:26.539Z] error details containing error [object Object]
+[2019-07-25T05:53:40.259Z] error enter correct password
+[2019-07-25T06:56:30.932Z] info server running
+[2019-07-25T06:59:02.584Z] info server running
+[2019-07-25T07:01:02.797Z] info server running
+[2019-07-25T07:01:08.062Z] error details containing error [object Object]
+[2019-07-25T07:02:44.076Z] info server running
+[2019-07-25T07:02:47.675Z] error enter correct password
+[2019-07-25T07:02:57.976Z] info user sucesfully login
