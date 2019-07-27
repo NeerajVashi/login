@@ -15,16 +15,16 @@ app.use(bodyparser.urlencoded({
 	extended: true,
 }));
 
-app.get('/',(req,res)=>{
-    res.send('he');
-})
+app.get('/', (req, res) => {
+	res.send('he');
+});
 app.use(bodyparser.json());
 app.use(cors());
 app.use('/auth', alowmidle, auth);
 
 
 app.listen(process.env.PORT, () => {
-	logger.info('server running');
+	logger.info(`server running ${process.env.PORT}`);
 });
 
 module.exports = app;
