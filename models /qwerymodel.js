@@ -73,16 +73,20 @@ module.exports = {
 	},
 	async updateData(data){
 		await pool.query(`update userDetails set ? where id =? `, [data,data.id]);
-        await logger.info("profile updated ");
+		const user = await pool.query(`SELECT * FROM userDetails where id=?`, [data.id]);
+		await logger.info("profile updated ");
+		return user;
 	},
 	async updateProfilePic(data){
 		await pool.query(`update userDetails set Profile_pic = ?  where id =? `, [data,data.id])
+		const user = await pool.query(`select * from userDetails  where id =? `, [data.id])
 		await logger.info("profile image updated");
-		return[{id:data.id , Profile_pic:data.Profile_pic}];
+		return user;
 	},
 	async updateCoverPic(data){
 		await pool.query(`update userDetails set Cover_pic = ?  where id =? `, [data,data.id])
+		const user = await pool.query(`select * from userDetails  where id =? `, [data.id])
 		await logger.info("cover image updated");
-		return[{id:data.id , Cover_pic:data.Cover_pic}];
+		return user;
 	}
 };

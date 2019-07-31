@@ -38,8 +38,9 @@ router.post('/signup', [check('user', 'invalid Email').isEmail().normalizeEmail(
 	}
 });
 router.put('/signup',async (req,res)=>{
-	await container.updateData(req.body);
+	const [user] = await container.updateData(req.body);
 	await logger.info('updated');
+	res.json(user);
 })
 
 router.put('/signup/updateprofilepic/',upload.single('Profile_pic'),async (req,res)=>{
@@ -51,8 +52,8 @@ router.put('/signup/updateprofilepic/',upload.single('Profile_pic'),async (req,r
         id :req.body.userId,
         Profile_pic:`http://localhost:${process.env.PORT}/`+req.file.path,
     }
-	const ret = await container.updateProfilePic(data);
-	await res.json(ret);  
+	const [user] = await container.updateProfilePic(data);
+	await res.json(user);  
     }
 })
 
@@ -66,8 +67,8 @@ router.put('/signup/updatecoverpic/',upload.single('Cover_pic'),async (req,res)=
         id :req.body.userId,
         Cover_pic:`http://localhost:${process.env.PORT}/`+req.file.path,
     }
-	const ret = await container.updateCoverPic(data);
-	await res.json(ret);  
+	const [user] = await container.updateCoverPic(data);
+	await res.json(user);  
     }
 })
 
