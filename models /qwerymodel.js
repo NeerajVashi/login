@@ -71,4 +71,18 @@ module.exports = {
 			msg: 'enter correct password', token: '', status: false, user: '',
 		};
 	},
+	async updateData(data){
+		await pool.query(`update userDetails set ? where id =? `, [data,data.id]);
+        await logger.info("profile updated ");
+	},
+	async updateProfilePic(data){
+		await pool.query(`update userDetails set Profile_pic = ?  where id =? `, [data,data.id])
+		await logger.info("profile image updated");
+		return[{id:data.id , Profile_pic:data.Profile_pic}];
+	},
+	async updateCoverPic(data){
+		await pool.query(`update userDetails set Cover_pic = ?  where id =? `, [data,data.id])
+		await logger.info("cover image updated");
+		return[{id:data.id , Cover_pic:data.Cover_pic}];
+	}
 };

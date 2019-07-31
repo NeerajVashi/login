@@ -11,6 +11,8 @@ import alowmidle from '../middleware/allow';
 require('dotenv').config();
 
 const app = express();
+app.use('/uploads', express.static('uploads'));
+
 app.use(bodyparser.urlencoded({
 	extended: true,
 }));

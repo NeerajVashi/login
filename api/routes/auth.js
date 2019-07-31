@@ -3,6 +3,18 @@ import express from 'express';
 import { validationResult, check } from 'express-validator';
 import container from '../../models /qwerymodel';
 import logger from '../../logging/logger';
+import multer from 'multer';
+require('dotenv').config();
+
+const storage=multer.diskStorage({
+    destination:function(req,file,cb){
+        cb(null,'./uploads/')
+    },
+    filename: function(req,file,cb){
+        cb(null,file.originalname)
+    }
+})
+const upload = multer({storage:storage})
 
 const router = express.Router();
 
@@ -25,6 +37,40 @@ router.post('/signup', [check('user', 'invalid Email').isEmail().normalizeEmail(
 		return err;
 	}
 });
+router.put('/signup',async (req,res)=>{
+	await container.updateData(req.body);
+	await logger.info('updated');
+})
+
+router.put('/signup/updateprofilepic/',upload.single('Profile_pic'),async (req,res)=>{
+	if(req.file===undefined){
+        logger.error('upload an image')
+        res.json({error:'upload an image '})
+    }else{
+    const data={
+        id :req.body.userId,
+        Profile_pic:`http://localhost:${process.env.PORT}/`+req.file.path,
+    }
+	const ret = await container.updateProfilePic(data);
+	await res.json(ret);  
+    }
+})
+
+
+router.put('/signup/updatecoverpic/',upload.single('Cover_pic'),async (req,res)=>{
+	if(req.file===undefined){
+        logger.error('upload an image')
+        res.json({error:'upload an image '})
+    }else{
+    const data={
+        id :req.body.userId,
+        Cover_pic:`http://localhost:${process.env.PORT}/`+req.file.path,
+    }
+	const ret = await container.updateCoverPic(data);
+	await res.json(ret);  
+    }
+})
+
 router.post('/login', [
 	check('password', 'Your Password must be atleast 8 characters').isLength({ min: 8 }).trim().escape(),
 ], async (req, res) => {

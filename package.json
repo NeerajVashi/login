@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/server.js --exec babel-node ",
-    "mig":"node newscript.js --exec babel-node"
+    "mig": "node newscript.js --exec babel-node"
   },
   "author": "",
   "license": "ISC",
@@ -35,6 +35,7 @@
     "mocha": "^6.1.4",
     "mongodb": "^3.2.7",
     "mongoose": "^5.6.1",
+    "multer": "^1.4.2",
     "mysql": "^2.17.1",
     "mysql2": "^1.6.5",
     "nodemon": "^1.19.1",
