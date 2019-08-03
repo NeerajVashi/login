@@ -8,6 +8,8 @@ import auth from '../api/routes/auth';
 
 import alowmidle from '../middleware/allow';
 
+import users from '../api/routes/user';
+
 require('dotenv').config();
 
 const app = express();
@@ -23,7 +25,7 @@ app.get('/', (req, res) => {
 app.use(bodyparser.json());
 app.use(cors());
 app.use('/auth', alowmidle, auth);
-
+app.use('/user', users);
 
 app.listen(process.env.PORT, () => {
 	logger.info(`server running ${process.env.PORT}`);

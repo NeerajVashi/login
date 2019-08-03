@@ -9,6 +9,15 @@ const SECRET = 'mysecret';
 
 
 module.exports = {
+	async getRegisteredUsers() {
+		try {
+			const users = await pool.execute('SELECT * from userDetails');
+			return users;
+		} catch (err) {
+			await logger.info(`error in getUser:${err}`);
+			return [{ err }];
+		}
+	},
 	async insertData(data) {
 		try {
 			const [row] = await pool.execute('SELECT * FROM userDetails where user=?', [data.user]);
@@ -88,5 +97,16 @@ module.exports = {
 		const user = await pool.query(`select * from userDetails  where id =? `, [data.id])
 		await logger.info("cover image updated");
 		return user;
-	}
+	},
+	async getUsers(id) {
+		try {
+			const [users] = await pool.execute('SELECT * FROM userDetails where id != ?', [id]);
+			return users;
+		} catch (err) {
+			await logger.info(`error in getUser:${err}`);
+			return {
+				msg: 'err fetched', status: true, users: '',
+			};
+		}
+	},
 };
