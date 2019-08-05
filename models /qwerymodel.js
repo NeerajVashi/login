@@ -4,11 +4,103 @@ import jwt from 'jsonwebtoken';
 import logger from '../logging/logger';
 import pool from './database';
 
-
 const SECRET = 'mysecret';
 
-
 module.exports = {
+
+
+
+	async insertOnlineUser(socketid,userid){
+		const data={
+			socketid:socketid,
+			userid:userid
+		}
+		try {
+			await pool.query('insert into onlineusers set ?',[data]);
+			await logger.info(`inserted online user`);
+		} catch (err) {
+			await logger.info(`error in inserting online user:${err}`);
+			return [{ err }];
+		}
+	},
+	async showUserDetails(cuserid){
+		try {
+			const [user] = await pool.execute('select  id ,firstName from userDetails where id = ? ',[cuserid]);
+			await logger.info(`showed user`);
+			return user;
+		} catch (err) {
+			await logger.info(`error in showing user:${err}`);
+			return [{ err }];
+		}
+	},
+	async updateUserStatus(id){
+		try {
+			await pool.query('update userDetails set onlinestatus ="1" where id = ? ',[id]);
+			await logger.info(`updated online status of user`);
+		} catch (err) {
+			await logger.info(`error in showing user:${err}`);
+			return [{ err }];
+		}
+	},
+
+	async getOnlineUsers(){
+		try {
+			const [user] = await pool.execute('select u.id , u.firstName , ou.socketid from onlineusers ou left join userDetails u ON u.id=ou.userid where onlinestatus=1 group by userid');
+			await logger.info(`showed online user`);
+			return user;
+		} catch (err) {
+			await logger.info(`error in showing online user:${err}`);
+			return [{ err }];
+		}
+	},
+
+	async getUserIdOnline(socketid){
+		try {
+			const [user] = await pool.execute('select  userid from onlineusers where socketid = ? ',[socketid]);
+			await logger.info(`showing user with socketid`);
+			return user;
+		} catch (err) {
+			await logger.info(`error in showing user with socketid:${err}`);
+			return [{ err }];
+		}
+	},
+	async updateUserStatusZero(id){
+		try {
+			await pool.query('update userDetails set onlinestatus ="0" where id = ? ',[id]);
+			await logger.info(`updated online status of user`);
+		} catch (err) {
+			await logger.info(`error in showing user:${err}`);
+			return [{ err }];
+		}
+	},
+	async deleteFromOnline(socketid){
+		try {
+			await pool.query('delete from onlineusers where socketid = ? ',[socketid]);
+			await logger.info(`deleted online  user`);
+		} catch (err) {
+			await logger.info(`error in deleting user from online :${err}`);
+			return [{ err }];
+		}
+	},
+	async onlineUserShow(userid){
+		try {
+			const [user] = await pool.execute('select  userid from onlineusers where userid = ? ',[userid]);
+			await logger.info(`showing user with userid`);
+			return user;
+		} catch (err) {
+			await logger.info(`error in showing user with userid:${err}`);
+			return [{ err }];
+		}
+	},
+	async getRegisteredUsers() {
+		try {
+			const users = await pool.execute('SELECT * from userDetails');
+			return users;
+		} catch (err) {
+			await logger.info(`error in getUser:${err}`);
+			return [{ err }];
+		}
+	},
 	async insertData(data) {
 		try {
 			const [row] = await pool.execute('SELECT * FROM userDetails where user=?', [data.user]);
@@ -60,7 +152,6 @@ module.exports = {
 				gender: User[0].gender,
 				dob: User[0].DOB,
 			}, SECRET);
-
 			await logger.info('user successfully login');
 			return {
 				msg: 'user successfully login', token: tokenvalue, status: true, user: User,
@@ -77,6 +168,7 @@ module.exports = {
 		await logger.info("profile updated ");
 		return user;
 	},
+	
 	async updateProfilePic(data){
 		await pool.query(`update userDetails set Profile_pic = ?  where id =? `, [data,data.id])
 		const user = await pool.query(`select * from userDetails  where id =? `, [data.id])
@@ -88,5 +180,16 @@ module.exports = {
 		const user = await pool.query(`select * from userDetails  where id =? `, [data.id])
 		await logger.info("cover image updated");
 		return user;
+	},
+	async getUsers(id) {
+		try {
+			const [users] = await pool.execute('SELECT * FROM userDetails where id != ?', [id]);
+			return users;
+		} catch (err) {
+			await logger.info(`error in getUser:${err}`);
+			return {
+				msg: 'err fetched', status: true, users: '',
+			};
+		}
 	}
 };

@@ -328,7 +328,7 @@
 [2019-07-30T06:51:13.430Z] info server running 8080
 [2019-07-30T06:53:44.878Z] info server running 8080
 [2019-07-30T06:54:46.574Z] info server running 8080
-[2019-07-30T06:55:06.453Z] info server running 8080
+[2019-07-30T06:55:06.453Z] info server running 8080Timeline
 [2019-07-30T06:55:32.118Z] info server running 8080
 [2019-07-30T06:57:44.011Z] info server running 8080
 [2019-07-30T06:58:19.866Z] info server running 8080
@@ -1019,3 +1019,1623 @@
 [2019-08-03T03:55:39.300Z] info user successfully login
 [2019-08-03T03:56:34.360Z] info user successfully login
 [2019-08-03T04:28:00.654Z] info user successfully login
+[2019-08-03T05:03:47.783Z] info server running 8000
+[2019-08-03T05:12:52.385Z] info server running 8000
+[2019-08-03T05:13:06.131Z] info user successfully login
+[2019-08-03T05:13:20.246Z] info user successfully login
+[2019-08-03T05:13:51.386Z] info user successfully login
+[2019-08-03T05:14:08.950Z] info user successfully login
+[2019-08-03T05:20:02.677Z] info user successfully login
+[2019-08-03T05:26:04.105Z] info user successfully login
+[2019-08-03T06:21:02.286Z] info user successfully login
+[2019-08-03T06:22:06.754Z] info user successfully login
+[2019-08-03T06:26:22.212Z] info user successfully login
+[2019-08-03T06:26:33.962Z] info user successfully login
+[2019-08-03T06:30:36.628Z] info user successfully login
+[2019-08-03T06:31:35.241Z] info user successfully login
+[2019-08-03T06:31:58.565Z] info user successfully login
+[2019-08-03T06:40:30.808Z] info user successfully login
+[2019-08-03T06:45:05.703Z] info user successfully login
+[2019-08-03T06:48:28.493Z] info user successfully login
+[2019-08-03T06:49:16.471Z] info user successfully login
+[2019-08-03T06:53:52.168Z] error enter correct password
+[2019-08-03T06:53:55.064Z] info user successfully login
+[2019-08-03T06:54:54.851Z] info user successfully login
+[2019-08-03T07:00:35.253Z] info user successfully login
+[2019-08-03T07:06:07.972Z] info server running 8000
+[2019-08-03T07:10:11.729Z] info server running 8000
+[2019-08-03T07:10:44.791Z] info user successfully login
+[2019-08-03T07:11:25.718Z] info user successfully login
+[2019-08-03T07:32:22.924Z] info user successfully login
+[2019-08-03T07:32:53.646Z] info user successfully login
+[2019-08-03T07:33:44.179Z] info user successfully login
+[2019-08-03T07:38:06.922Z] info user successfully login
+[2019-08-03T07:40:01.966Z] info user successfully login
+[2019-08-03T07:47:28.605Z] info user successfully login
+[2019-08-03T07:48:34.679Z] info user successfully login
+[2019-08-03T07:49:34.556Z] info user successfully login
+[2019-08-03T08:40:42.199Z] info user successfully login
+[2019-08-03T08:41:50.719Z] info user successfully login
+[2019-08-03T08:42:02.098Z] info cover image updated
+[2019-08-03T08:42:08.567Z] info profile image updated
+[2019-08-03T08:45:09.076Z] info user successfully login
+[2019-08-03T08:45:41.892Z] info user successfully login
+[2019-08-03T08:54:20.102Z] info user successfully login
+[2019-08-03T08:56:07.512Z] info user successfully login
+[2019-08-03T09:12:21.901Z] info user successfully login
+[2019-08-03T09:17:24.114Z] info user successfully login
+[2019-08-03T09:20:02.616Z] info user successfully login
+[2019-08-03T09:22:00.935Z] info user successfully login
+[2019-08-03T09:23:18.616Z] info user successfully login
+[2019-08-03T09:24:31.706Z] info user successfully login
+[2019-08-03T09:25:54.910Z] info user successfully login
+[2019-08-03T09:27:38.746Z] info user successfully login
+[2019-08-03T09:28:04.491Z] info user successfully login
+[2019-08-03T09:30:24.356Z] info user successfully login
+[2019-08-03T09:33:02.010Z] info user successfully login
+[2019-08-03T09:45:13.488Z] info user successfully login
+[2019-08-03T09:55:24.521Z] error enter correct password
+[2019-08-03T09:55:38.252Z] info user successfully login
+[2019-08-03T12:28:34.828Z] info user successfully login
+[2019-08-03T12:31:37.609Z] info user successfully login
+[2019-08-03T12:32:47.184Z] info user successfully login
+[2019-08-03T12:38:19.670Z] info user successfully login
+[2019-08-03T12:38:51.657Z] info user successfully login
+[2019-08-03T12:49:55.885Z] info user successfully login
+[2019-08-03T12:50:50.073Z] info user successfully login
+[2019-08-03T12:51:12.897Z] info user successfully login
+[2019-08-03T12:54:09.800Z] info user successfully login
+[2019-08-03T12:54:40.393Z] info user successfully login
+[2019-08-03T12:55:14.050Z] info user successfully login
+[2019-08-03T12:56:26.607Z] info user successfully login
+[2019-08-03T12:57:26.673Z] info user successfully login
+[2019-08-03T12:58:17.697Z] info user successfully login
+[2019-08-03T12:59:51.154Z] info user successfully login
+[2019-08-03T13:01:05.810Z] info user successfully login
+[2019-08-03T13:02:19.281Z] info user successfully login
+[2019-08-03T13:02:51.821Z] info user successfully login
+[2019-08-03T13:03:50.364Z] info user successfully login
+[2019-08-03T13:04:52.499Z] info user successfully login
+[2019-08-03T13:05:25.386Z] info user successfully login
+[2019-08-03T13:10:23.940Z] info user successfully login
+[2019-08-03T13:10:54.774Z] info user successfully login
+[2019-08-03T13:11:31.666Z] info user successfully login
+[2019-08-03T13:12:11.127Z] info user successfully login
+[2019-08-03T13:12:58.979Z] info user successfully login
+[2019-08-03T13:14:22.371Z] info user successfully login
+[2019-08-03T13:15:06.526Z] info user successfully login
+[2019-08-03T13:18:05.089Z] info user successfully login
+[2019-08-03T13:19:51.490Z] info user successfully login
+[2019-08-03T13:24:01.247Z] info user successfully login
+[2019-08-03T13:25:16.523Z] info user successfully login
+[2019-08-03T13:26:43.089Z] info server running 8000
+[2019-08-03T13:35:37.330Z] info server running 8000
+[2019-08-03T13:36:14.483Z] info user successfully login
+[2019-08-03T13:53:13.828Z] info server running 8000
+[2019-08-03T14:00:17.486Z] info user successfully login
+[2019-08-03T14:03:40.648Z] info server running 8000
+[2019-08-03T14:03:44.581Z] info server running 8000
+[2019-08-03T14:10:45.099Z] info user successfully login
+[2019-08-03T14:19:39.069Z] info server running 8000
+[2019-08-03T14:21:57.872Z] info user successfully login
+[2019-08-03T14:26:46.010Z] info user successfully login
+[2019-08-03T14:29:32.528Z] info user successfully login
+[2019-08-03T14:30:19.008Z] info user successfully login
+[2019-08-03T14:43:44.670Z] info user successfully login
+[2019-08-03T14:48:28.927Z] info user successfully login
+[2019-08-03T14:48:50.295Z] info updated
+[2019-08-03T14:50:41.502Z] info server running 8000
+[2019-08-03T14:50:51.218Z] info user successfully login
+[2019-08-03T14:51:36.172Z] info updated
+[2019-08-03T14:53:13.559Z] info server running 8000
+[2019-08-03T14:53:33.083Z] info user successfully login
+[2019-08-03T14:53:49.322Z] info updated
+[2019-08-03T14:55:52.048Z] info server running 8000
+[2019-08-03T14:56:10.453Z] info server running 8000
+[2019-08-03T14:57:19.309Z] info user successfully login
+[2019-08-03T15:03:59.504Z] info user successfully login
+[2019-08-03T15:04:51.147Z] info profile updated 
+[2019-08-03T15:04:51.149Z] info updated
+[2019-08-03T15:07:28.383Z] info server running 8000
+[2019-08-03T15:08:58.995Z] info user successfully login
+[2019-08-03T15:10:15.186Z] info user successfully login
+[2019-08-03T15:10:47.299Z] info user successfully login
+[2019-08-03T15:10:57.302Z] info profile updated 
+[2019-08-03T15:10:57.303Z] info updated
+[2019-08-03T15:13:25.060Z] info user successfully login
+[2019-08-03T15:13:46.811Z] info profile updated 
+[2019-08-03T15:13:46.813Z] info updated
+[2019-08-03T15:14:16.831Z] info server running 8000
+[2019-08-03T15:14:20.304Z] info server running 8000
+[2019-08-04T06:46:44.013Z] info server running 8000
+[2019-08-04T06:47:37.070Z] info user successfully login
+[2019-08-04T13:55:18.297Z] info server running 8000
+[2019-08-04T13:55:41.665Z] info user connected : 1
+[2019-08-04T15:03:21.971Z] info server running 8000
+[2019-08-04T15:03:25.286Z] info user connected : 1
+[2019-08-04T15:25:03.347Z] info server running 8000
+[2019-08-04T15:25:05.293Z] info user connected : 1
+[2019-08-04T15:28:26.196Z] info server running 8000
+[2019-08-04T15:28:28.299Z] info user connected : 1
+[2019-08-04T15:28:36.000Z] info server running 8000
+[2019-08-04T15:28:38.300Z] info user connected : 1
+[2019-08-04T15:28:47.068Z] info server running 8000
+[2019-08-04T15:28:49.311Z] info user connected : 1
+[2019-08-04T15:33:03.256Z] info server running 8000
+[2019-08-04T15:33:06.288Z] info user connected : 1
+[2019-08-04T15:35:46.009Z] info server running 8000
+[2019-08-04T15:35:46.308Z] info user connected : 1
+[2019-08-04T15:37:12.108Z] info server running 8000
+[2019-08-04T15:37:12.309Z] info user connected : 1
+[2019-08-04T15:43:37.344Z] info server running 8000
+[2019-08-04T15:43:40.293Z] info user connected : 1
+[2019-08-04T15:44:38.764Z] info server running 8000
+[2019-08-04T15:44:41.315Z] info user connected : 1
+[2019-08-04T15:45:08.217Z] info server running 8000
+[2019-08-04T15:45:10.336Z] info user connected : 1
+[2019-08-04T15:45:36.875Z] info server running 8000
+[2019-08-04T15:45:39.308Z] info user connected : 1
+[2019-08-04T15:46:20.664Z] info server running 8000
+[2019-08-04T15:46:24.319Z] info user connected : 1
+[2019-08-04T15:46:49.463Z] info server running 8000
+[2019-08-04T15:46:50.698Z] info user connected : 1
+[2019-08-04T15:47:46.533Z] info server running 8000
+[2019-08-04T15:47:46.880Z] info user connected : 1
+[2019-08-04T15:48:20.031Z] info server running 8000
+[2019-08-04T15:48:21.844Z] info user connected : 1
+[2019-08-04T15:49:24.202Z] info server running 8000
+[2019-08-04T15:49:25.648Z] info user connected : 1
+[2019-08-04T15:53:35.062Z] info server running 8000
+[2019-08-04T15:53:36.689Z] info user connected : 1
+[2019-08-04T15:53:36.824Z] info error in inserting online user:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[2019-08-04T16:00:40.302Z] info server running 8000
+[2019-08-04T16:00:44.313Z] info user connected : 1
+[2019-08-04T16:00:44.385Z] info error in inserting online user:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[2019-08-04T16:01:30.814Z] info server running 8000
+[2019-08-04T16:01:32.302Z] info user connected : 1
+[2019-08-04T16:01:32.385Z] info error in inserting online user:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''a2210FW2EKtmWn9PAAAA'' at line 1
+[2019-08-04T16:02:22.672Z] info server running 8000
+[2019-08-04T16:02:24.305Z] info user connected : 1
+[2019-08-04T16:02:24.343Z] info error in inserting online user:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''ayHidSklH0nyc4EAAAAA'' at line 1
+[2019-08-04T16:03:05.880Z] info server running 8000
+[2019-08-04T16:03:08.284Z] info user connected : 1
+[2019-08-04T16:03:08.316Z] info error in inserting online user:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''oIeUx9eNUxvq4_egAAAA'' at line 1
+[2019-08-04T16:04:20.124Z] info server running 8000
+[2019-08-04T16:04:23.306Z] info user connected : 1
+[2019-08-04T16:04:23.338Z] info error in inserting online user:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''PJ3g02rneh5E7RQoAAAA'' at line 1
+[2019-08-04T16:07:46.320Z] info server running 8000
+[2019-08-04T16:07:52.314Z] info user connected : 1
+[2019-08-04T16:07:52.354Z] info error in inserting online user:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''JncyF03BIGj0mTs_AAAA'' at line 1
+[2019-08-04T16:07:52.383Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:09:12.820Z] info server running 8000
+[2019-08-04T16:09:15.312Z] info user connected : 1
+[2019-08-04T16:09:15.415Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:09:15.426Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:10:36.646Z] info server running 8000
+[2019-08-04T16:10:39.311Z] info user connected : 1
+[2019-08-04T16:10:39.330Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:10:39.335Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:11:10.966Z] info server running 8000
+[2019-08-04T16:11:13.297Z] info user connected : 1
+[2019-08-04T16:11:13.337Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:11:13.343Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:11:21.577Z] info server running 8000
+[2019-08-04T16:13:15.091Z] info server running 8000
+[2019-08-04T16:13:16.283Z] info user connected : 1
+[2019-08-04T16:13:16.290Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:13:16.299Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:14:04.922Z] info server running 8000
+[2019-08-04T16:14:07.305Z] info user connected : 1
+[2019-08-04T16:14:07.312Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:14:07.318Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:15:08.778Z] info server running 8000
+[2019-08-04T16:15:11.294Z] info user connected : 1
+[2019-08-04T16:15:11.303Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:15:11.309Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:15:51.770Z] info server running 8000
+[2019-08-04T16:15:56.374Z] info server running 8000
+[2019-08-04T16:16:01.293Z] info user connected : 1
+[2019-08-04T16:16:01.307Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:16:01.319Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:17:03.495Z] info server running 8000
+[2019-08-04T16:17:04.306Z] info user connected : 1
+[2019-08-04T16:17:04.316Z] info error in inserting online user:Error: Table 'userDb.onlineusers' doesn't exist
+[2019-08-04T16:17:04.335Z] info error in showing user:Error: Unknown column 'age' in 'field list'
+[2019-08-04T16:25:32.447Z] info server running 8000
+[2019-08-04T16:25:33.492Z] info user connected : 1
+[2019-08-04T16:25:33.716Z] info inserted online user
+[2019-08-04T16:25:33.776Z] info showed user
+[2019-08-04T16:26:04.300Z] info server running 8000
+[2019-08-04T16:26:05.155Z] info user connected : 1
+[2019-08-04T16:26:05.248Z] info inserted online user
+[2019-08-04T16:26:05.363Z] info showed user
+[2019-08-04T16:30:35.568Z] info server running 8000
+[2019-08-04T16:30:39.826Z] info user connected : 1
+[2019-08-04T16:30:39.923Z] info inserted online user
+[2019-08-04T16:30:39.937Z] info showed user
+[2019-08-04T16:30:41.222Z] info user diconnected 1
+[2019-08-04T16:30:41.848Z] info user connected : 2
+[2019-08-04T16:30:41.908Z] info inserted online user
+[2019-08-04T16:30:41.911Z] info showed user
+[2019-08-04T16:30:53.066Z] info user diconnected 2
+[2019-08-04T16:30:53.665Z] info user connected : 3
+[2019-08-04T16:30:53.809Z] info inserted online user
+[2019-08-04T16:30:53.811Z] info showed user
+[2019-08-04T16:31:18.454Z] info user connected : 4
+[2019-08-04T16:31:18.530Z] info inserted online user
+[2019-08-04T16:31:18.537Z] info showed user
+[2019-08-04T16:31:18.794Z] info user diconnected 4
+[2019-08-04T16:31:28.186Z] info user diconnected 4
+[2019-08-04T16:31:33.861Z] info user connected : 5
+[2019-08-04T16:31:33.946Z] info inserted online user
+[2019-08-04T16:31:33.947Z] info showed user
+[2019-08-04T18:23:47.058Z] info server running 8000
+[2019-08-04T18:23:49.945Z] info user connected : 1
+[2019-08-04T18:23:50.051Z] info inserted online user
+[2019-08-04T18:23:50.188Z] info showed user
+[2019-08-04T18:24:18.614Z] info user diconnected 1
+[2019-08-04T18:24:35.110Z] info user connected : 2
+[2019-08-04T18:24:35.204Z] info inserted online user
+[2019-08-04T18:24:35.210Z] info showed user
+[2019-08-04T18:40:46.602Z] info user diconnected 2
+[2019-08-04T18:40:47.360Z] info user connected : 3
+[2019-08-04T18:40:47.463Z] info inserted online user
+[2019-08-04T18:40:47.464Z] info showed user
+[2019-08-04T18:41:07.287Z] info user successfully login
+[2019-08-04T18:41:58.938Z] info user diconnected 3
+[2019-08-04T18:41:59.652Z] info user connected : 4
+[2019-08-04T18:41:59.751Z] info inserted online user
+[2019-08-04T18:41:59.753Z] info showed user
+[2019-08-04T18:45:25.324Z] info server running 8000
+[2019-08-04T18:45:26.797Z] info user connected : 1
+[2019-08-04T18:45:26.883Z] info inserted online user
+[2019-08-04T18:45:26.953Z] info showed user
+[2019-08-04T18:45:55.437Z] info user successfully login
+[2019-08-04T18:49:55.955Z] info server running 8000
+[2019-08-04T18:49:59.779Z] info user connected : 1
+[2019-08-04T18:49:59.864Z] info inserted online user
+[2019-08-04T18:49:59.871Z] info showed user
+[2019-08-04T18:50:34.115Z] info server running 8000
+[2019-08-04T18:50:36.775Z] info user connected : 1
+[2019-08-04T18:50:36.854Z] info inserted online user
+[2019-08-04T18:50:36.876Z] info showed user
+[2019-08-04T18:56:18.324Z] info server running 8000
+[2019-08-04T18:56:19.794Z] info user connected : 1
+[2019-08-04T18:56:19.881Z] info inserted online user
+[2019-08-04T18:56:19.962Z] info showed user
+[2019-08-04T18:58:29.685Z] info server running 8000
+[2019-08-04T18:58:32.774Z] info user connected : 1
+[2019-08-04T18:58:32.862Z] info inserted online user
+[2019-08-04T18:58:32.868Z] info showed user
+[2019-08-04T19:06:19.164Z] info user diconnected 1
+[2019-08-04T19:07:19.191Z] info user successfully login
+[2019-08-04T19:07:19.266Z] info user connected : 2
+[2019-08-04T19:07:19.311Z] info inserted online user
+[2019-08-04T19:07:19.313Z] info showed user
+[2019-08-04T19:16:36.556Z] info user diconnected 2
+[2019-08-04T19:18:32.412Z] info user successfully login
+[2019-08-04T19:18:32.507Z] info user connected : 3
+[2019-08-04T19:18:32.604Z] info inserted online user
+[2019-08-04T19:18:32.605Z] info showed user
+[2019-08-04T19:37:19.708Z] info server running 8000
+[2019-08-04T19:37:21.808Z] info user connected : 1
+[2019-08-04T19:37:21.892Z] info inserted online user
+[2019-08-04T19:37:21.900Z] info showed user
+[2019-08-04T20:16:34.372Z] info server running 8000
+[2019-08-04T20:17:13.474Z] info server running 8000
+[2019-08-04T20:17:16.808Z] info user connected : 1
+[2019-08-04T20:17:16.919Z] info inserted online user
+[2019-08-04T20:17:16.937Z] info showed user
+[2019-08-04T20:18:02.556Z] info server running 8000
+[2019-08-04T20:18:02.795Z] info user connected : 1
+[2019-08-04T20:18:02.875Z] info inserted online user
+[2019-08-04T20:18:02.884Z] info showed user
+[2019-08-04T20:18:11.583Z] info user diconnected 0
+[2019-08-04T20:18:11.590Z] info showing user with socketid
+[2019-08-04T20:19:12.043Z] info server running 8000
+[2019-08-04T20:19:39.387Z] info user successfully login
+[2019-08-04T20:19:39.461Z] info user connected : 1
+[2019-08-04T20:19:39.507Z] info inserted online user
+[2019-08-04T20:19:39.511Z] info showed user
+[2019-08-04T20:21:51.647Z] info server running 8000
+[2019-08-04T20:21:53.213Z] info user connected : 1
+[2019-08-04T20:21:53.685Z] info inserted online user
+[2019-08-04T20:21:53.705Z] info showed user
+[2019-08-04T20:22:09.420Z] info user successfully login
+[2019-08-04T20:22:59.165Z] info user diconnected 0
+[2019-08-04T20:22:59.171Z] info showing user with socketid
+[2019-08-04T20:22:59.416Z] info updated online status of user
+[2019-08-04T20:22:59.931Z] info user connected : 1
+[2019-08-04T20:23:00.048Z] info inserted online user
+[2019-08-04T20:23:00.050Z] info showed user
+[2019-08-04T20:23:28.248Z] info server running 8000
+[2019-08-04T20:23:30.236Z] info user connected : 1
+[2019-08-04T20:23:30.320Z] info inserted online user
+[2019-08-04T20:23:30.330Z] info showed user
+[2019-08-04T20:23:40.234Z] info user successfully login
+[2019-08-04T20:23:54.205Z] info user diconnected 0
+[2019-08-04T20:23:54.216Z] info showing user with socketid
+[2019-08-04T20:23:54.224Z] info updated online status of user
+[2019-08-04T20:23:54.832Z] info user connected : 1
+[2019-08-04T20:23:54.921Z] info inserted online user
+[2019-08-04T20:23:54.925Z] info showed user
+[2019-08-04T20:39:44.013Z] info server running 8000
+[2019-08-04T20:39:45.845Z] info user connected : 1
+[2019-08-04T20:39:45.920Z] info inserted online user
+[2019-08-04T20:39:45.926Z] info showed user
+[2019-08-04T20:40:16.780Z] info user diconnected 0
+[2019-08-04T20:40:16.804Z] info showing user with socketid
+[2019-08-04T20:40:16.813Z] info updated online status of user
+[2019-08-04T20:40:56.403Z] info server running 8000
+[2019-08-04T20:41:38.737Z] info server running 8000
+[2019-08-04T20:41:43.992Z] info user connected : 1
+[2019-08-04T20:41:44.089Z] info inserted online user
+[2019-08-04T20:41:44.103Z] info showed user
+[2019-08-04T20:43:11.327Z] info server running 8000
+[2019-08-04T20:43:12.387Z] info user connected : 1
+[2019-08-04T20:43:12.463Z] info inserted online user
+[2019-08-04T20:43:12.472Z] info showed user
+[2019-08-04T20:43:17.190Z] info user diconnected 0
+[2019-08-04T20:43:17.198Z] info showing user with socketid
+[2019-08-04T20:43:17.203Z] info updated online status of user
+[2019-08-04T20:43:17.840Z] info user connected : 1
+[2019-08-04T20:43:17.957Z] info inserted online user
+[2019-08-04T20:43:17.962Z] info showed user
+[2019-08-04T20:43:28.398Z] info user successfully login
+[2019-08-04T20:45:36.853Z] info server running 8000
+[2019-08-04T20:45:38.861Z] info user connected : 1
+[2019-08-04T20:45:38.953Z] info inserted online user
+[2019-08-04T20:45:38.963Z] info showed user
+[2019-08-04T20:45:43.740Z] info user diconnected 0
+[2019-08-04T20:45:43.745Z] info showing user with socketid
+[2019-08-04T20:45:43.754Z] info updated online status of user
+[2019-08-04T20:45:51.758Z] info user connected : 1
+[2019-08-04T20:45:51.850Z] info inserted online user
+[2019-08-04T20:45:51.852Z] info showed user
+[2019-08-04T20:46:01.692Z] info user successfully login
+[2019-08-04T20:46:21.967Z] info server running 8000
+[2019-08-04T20:46:25.888Z] info user connected : 1
+[2019-08-04T20:46:25.993Z] info inserted online user
+[2019-08-04T20:46:26.005Z] info showed user
+[2019-08-04T20:46:27.166Z] info user diconnected 0
+[2019-08-04T20:46:27.177Z] info showing user with socketid
+[2019-08-04T20:46:27.190Z] info updated online status of user
+[2019-08-04T20:46:32.871Z] info user connected : 1
+[2019-08-04T20:46:32.902Z] info inserted online user
+[2019-08-04T20:46:32.904Z] info showed user
+[2019-08-04T20:46:40.389Z] info user successfully login
+[2019-08-04T20:47:32.868Z] info server running 8000
+[2019-08-04T20:47:36.887Z] info user connected : 1
+[2019-08-04T20:47:37.000Z] info inserted online user
+[2019-08-04T20:47:37.009Z] info showed user
+[2019-08-04T20:47:39.941Z] info user diconnected 0
+[2019-08-04T20:47:39.950Z] info showing user with socketid
+[2019-08-04T20:47:39.964Z] info updated online status of user
+[2019-08-04T20:47:46.284Z] info user connected : 1
+[2019-08-04T20:47:46.357Z] info inserted online user
+[2019-08-04T20:47:46.360Z] info showed user
+[2019-08-04T20:47:54.304Z] info user successfully login
+[2019-08-04T20:48:17.586Z] info server running 8000
+[2019-08-04T20:48:18.587Z] info user connected : 1
+[2019-08-04T20:48:18.705Z] info inserted online user
+[2019-08-04T20:48:18.715Z] info showed user
+[2019-08-04T20:48:19.342Z] info user diconnected 0
+[2019-08-04T20:48:19.357Z] info showing user with socketid
+[2019-08-04T20:48:19.377Z] info updated online status of user
+[2019-08-04T20:48:24.763Z] info user connected : 1
+[2019-08-04T20:48:24.857Z] info inserted online user
+[2019-08-04T20:48:24.859Z] info showed user
+[2019-08-04T20:48:33.153Z] info user successfully login
+[2019-08-04T20:49:50.846Z] info server running 8000
+[2019-08-04T20:49:51.079Z] info user connected : 1
+[2019-08-04T20:49:51.154Z] info inserted online user
+[2019-08-04T20:49:51.171Z] info showed user
+[2019-08-04T20:49:54.003Z] info user diconnected 0
+[2019-08-04T20:49:54.017Z] info showing user with socketid
+[2019-08-04T20:49:54.032Z] info updated online status of user
+[2019-08-04T20:49:58.582Z] info user connected : 1
+[2019-08-04T20:49:58.632Z] info inserted online user
+[2019-08-04T20:49:58.633Z] info showed user
+[2019-08-04T20:50:05.902Z] info user successfully login
+[2019-08-04T20:51:20.747Z] info server running 8000
+[2019-08-04T20:51:22.547Z] info user connected : 1
+[2019-08-04T20:51:22.639Z] info inserted online user
+[2019-08-04T20:51:22.653Z] info showed user
+[2019-08-04T20:51:24.549Z] info user diconnected 0
+[2019-08-04T20:51:24.564Z] info showing user with socketid
+[2019-08-04T20:51:24.576Z] info updated online status of user
+[2019-08-04T20:51:28.728Z] info user connected : 1
+[2019-08-04T20:51:28.848Z] info inserted online user
+[2019-08-04T20:51:28.849Z] info showed user
+[2019-08-04T20:51:34.596Z] info user successfully login
+[2019-08-04T20:53:34.904Z] info server running 8000
+[2019-08-04T20:53:36.236Z] info user connected : 1
+[2019-08-04T20:53:36.334Z] info inserted online user
+[2019-08-04T20:53:36.348Z] info showed user
+[2019-08-04T20:53:46.608Z] info user diconnected 0
+[2019-08-04T20:53:46.622Z] info showing user with socketid
+[2019-08-04T20:53:46.643Z] info updated online status of user
+[2019-08-04T20:53:49.859Z] info user connected : 1
+[2019-08-04T20:53:49.925Z] info inserted online user
+[2019-08-04T20:53:49.926Z] info showed user
+[2019-08-04T20:53:57.018Z] error enter correct password
+[2019-08-04T20:54:15.636Z] info server running 8000
+[2019-08-04T20:54:17.457Z] info user connected : 1
+[2019-08-04T20:54:17.583Z] info inserted online user
+[2019-08-04T20:54:17.593Z] info showed user
+[2019-08-04T20:54:23.420Z] info user successfully login
+[2019-08-04T20:54:34.389Z] info user connected : 2
+[2019-08-04T20:54:34.456Z] info inserted online user
+[2019-08-04T20:54:34.458Z] info showed user
+[2019-08-04T20:54:43.343Z] info user successfully login
+[2019-08-04T20:54:53.128Z] info server running 8000
+[2019-08-04T20:54:53.621Z] info user connected : 1
+[2019-08-04T20:54:53.716Z] info inserted online user
+[2019-08-04T20:54:53.736Z] info showed user
+[2019-08-04T20:54:55.830Z] info user connected : 2
+[2019-08-04T20:54:55.887Z] info inserted online user
+[2019-08-04T20:54:55.889Z] info showed user
+[2019-08-04T20:54:56.851Z] info user diconnected 1
+[2019-08-04T20:54:56.868Z] info showing user with socketid
+[2019-08-04T20:54:56.901Z] info updated online status of user
+[2019-08-04T20:54:58.542Z] info user diconnected 0
+[2019-08-04T20:54:58.544Z] info showing user with socketid
+[2019-08-04T20:54:58.545Z] info updated online status of user
+[2019-08-04T20:55:04.942Z] info user connected : 1
+[2019-08-04T20:55:05.035Z] info inserted online user
+[2019-08-04T20:55:05.036Z] info showed user
+[2019-08-04T20:55:13.316Z] info user successfully login
+[2019-08-04T20:55:23.706Z] info user connected : 2
+[2019-08-04T20:55:23.786Z] info inserted online user
+[2019-08-04T20:55:23.787Z] info showed user
+[2019-08-04T20:55:31.480Z] info user successfully login
+[2019-08-04T20:55:44.778Z] info user diconnected 1
+[2019-08-04T20:55:44.779Z] info showing user with socketid
+[2019-08-04T20:55:44.781Z] info updated online status of user
+[2019-08-04T20:55:45.344Z] info user diconnected 0
+[2019-08-04T20:55:45.347Z] info showing user with socketid
+[2019-08-04T20:55:45.349Z] info updated online status of user
+[2019-08-04T20:58:21.421Z] info server running 8000
+[2019-08-04T20:58:32.345Z] info user connected : 1
+[2019-08-04T20:58:32.413Z] info inserted online user
+[2019-08-04T20:58:32.420Z] info showed user
+[2019-08-04T20:58:41.118Z] info user successfully login
+[2019-08-04T21:00:18.140Z] info server running 8000
+[2019-08-04T21:00:18.396Z] info user connected : 1
+[2019-08-04T21:00:18.476Z] info inserted online user
+[2019-08-04T21:00:18.495Z] info showed user
+[2019-08-04T21:00:20.820Z] info user diconnected 0
+[2019-08-04T21:00:20.848Z] info showing user with socketid
+[2019-08-04T21:00:20.866Z] info updated online status of user
+[2019-08-04T21:00:25.617Z] info user connected : 1
+[2019-08-04T21:00:25.716Z] info inserted online user
+[2019-08-04T21:00:25.718Z] info showed user
+[2019-08-04T21:00:32.759Z] info user successfully login
+[2019-08-04T21:04:45.415Z] info server running 8000
+[2019-08-04T21:04:48.861Z] info user connected : 1
+[2019-08-04T21:04:48.921Z] info inserted online user
+[2019-08-04T21:04:48.927Z] info showed user
+[2019-08-04T21:04:52.004Z] info user diconnected 0
+[2019-08-04T21:04:52.013Z] info showing user with socketid
+[2019-08-04T21:04:52.024Z] info updated online status of user
+[2019-08-04T21:04:56.077Z] info user connected : 1
+[2019-08-04T21:04:56.170Z] info inserted online user
+[2019-08-04T21:04:56.172Z] info showed user
+[2019-08-04T21:06:06.476Z] info server running 8000
+[2019-08-04T21:06:08.861Z] info user connected : 1
+[2019-08-04T21:06:08.932Z] info inserted online user
+[2019-08-04T21:06:08.945Z] info showed user
+[2019-08-04T21:06:18.397Z] info server running 8000
+[2019-08-04T21:06:20.842Z] info user connected : 1
+[2019-08-04T21:06:20.927Z] info inserted online user
+[2019-08-04T21:06:20.938Z] info showed user
+[2019-08-04T21:06:22.411Z] info user diconnected 0
+[2019-08-04T21:06:22.423Z] info showing user with socketid
+[2019-08-04T21:06:22.442Z] info updated online status of user
+[2019-08-04T21:06:26.922Z] info user connected : 1
+[2019-08-04T21:06:27.012Z] info inserted online user
+[2019-08-04T21:06:27.015Z] info showed user
+[2019-08-04T21:06:35.774Z] info user successfully login
+[2019-08-04T21:06:53.294Z] info server running 8000
+[2019-08-04T21:06:54.347Z] info user connected : 1
+[2019-08-04T21:06:54.434Z] info inserted online user
+[2019-08-04T21:06:54.447Z] info showed user
+[2019-08-04T21:06:57.854Z] info user diconnected 0
+[2019-08-04T21:06:57.860Z] info showing user with socketid
+[2019-08-04T21:06:57.866Z] info updated online status of user
+[2019-08-04T21:07:00.550Z] info user connected : 1
+[2019-08-04T21:07:00.831Z] info inserted online user
+[2019-08-04T21:07:00.834Z] info showed user
+[2019-08-04T21:07:08.971Z] info user successfully login
+[2019-08-04T21:08:14.297Z] info server running 8000
+[2019-08-04T21:08:15.579Z] info user connected : 1
+[2019-08-04T21:08:15.688Z] info inserted online user
+[2019-08-04T21:08:15.709Z] info showed user
+[2019-08-04T21:08:21.303Z] info user diconnected 0
+[2019-08-04T21:08:21.313Z] info showing user with socketid
+[2019-08-04T21:08:21.319Z] info updated online status of user
+[2019-08-04T21:08:24.963Z] info user connected : 1
+[2019-08-04T21:08:25.050Z] info inserted online user
+[2019-08-04T21:08:25.052Z] info showed user
+[2019-08-04T21:09:21.170Z] info server running 8000
+[2019-08-04T21:09:22.887Z] info user connected : 1
+[2019-08-04T21:09:22.968Z] info inserted online user
+[2019-08-04T21:09:22.974Z] info showed user
+[2019-08-04T21:09:25.475Z] info user diconnected 0
+[2019-08-04T21:09:25.488Z] info showing user with socketid
+[2019-08-04T21:09:25.502Z] info updated online status of user
+[2019-08-04T21:09:28.373Z] info user connected : 1
+[2019-08-04T21:09:28.457Z] info inserted online user
+[2019-08-04T21:09:28.460Z] info showed user
+[2019-08-04T21:10:08.260Z] info server running 8000
+[2019-08-04T21:10:09.490Z] info user connected : 1
+[2019-08-04T21:10:09.596Z] info inserted online user
+[2019-08-04T21:10:09.621Z] info showed user
+[2019-08-04T21:10:51.313Z] info server running 8000
+[2019-08-04T21:10:54.224Z] info user connected : 1
+[2019-08-04T21:10:54.335Z] info inserted online user
+[2019-08-04T21:10:54.342Z] info showed user
+[2019-08-04T21:11:00.151Z] info user successfully login
+[2019-08-04T21:13:57.522Z] info server running 8000
+[2019-08-04T21:14:00.864Z] info user connected : 1
+[2019-08-04T21:14:00.928Z] info inserted online user
+[2019-08-04T21:14:00.934Z] info showed user
+[2019-08-04T21:16:18.116Z] info server running 8000
+[2019-08-04T21:17:11.680Z] info server running 8000
+[2019-08-04T21:17:32.200Z] info user connected : 1
+[2019-08-04T21:17:32.337Z] info inserted online user
+[2019-08-04T21:17:32.347Z] info showed user
+[2019-08-04T21:17:38.958Z] info user successfully login
+[2019-08-04T21:17:46.134Z] info user diconnected 0
+[2019-08-04T21:17:46.138Z] info showing user with socketid
+[2019-08-04T21:17:46.141Z] info updated online status of user
+[2019-08-04T21:17:49.048Z] info user connected : 1
+[2019-08-04T21:17:49.134Z] info inserted online user
+[2019-08-04T21:17:49.137Z] info showed user
+[2019-08-04T21:17:58.740Z] error details containing error [object Object]
+[2019-08-04T21:26:51.765Z] info server running 8000
+[2019-08-04T21:26:54.892Z] info user connected : 1
+[2019-08-04T21:26:55.031Z] info inserted online user
+[2019-08-04T21:26:55.048Z] info showed user
+[2019-08-04T21:27:07.686Z] info user successfully login
+[2019-08-04T21:30:53.966Z] info server running 8000
+[2019-08-04T21:30:54.863Z] info user connected : 1
+[2019-08-04T21:30:54.953Z] info inserted online user
+[2019-08-04T21:30:54.972Z] info showed user
+[2019-08-04T21:34:06.569Z] info server running 8000
+[2019-08-04T21:34:07.869Z] info user connected : 1
+[2019-08-04T21:34:07.950Z] info error in inserting online user:Error: Field 'userid' doesn't have a default value
+[2019-08-04T21:35:42.886Z] info server running 8000
+[2019-08-04T21:36:57.177Z] info server running 8000
+[2019-08-04T21:37:00.872Z] info user connected : 1
+[2019-08-04T21:37:00.973Z] info inserted online user
+[2019-08-04T21:37:00.983Z] info showed user
+[2019-08-04T21:37:06.609Z] info user diconnected 0
+[2019-08-04T21:37:06.613Z] info showing user with socketid
+[2019-08-04T21:37:06.618Z] info updated online status of user
+[2019-08-04T21:37:13.746Z] info user connected : 1
+[2019-08-04T21:37:13.822Z] info inserted online user
+[2019-08-04T21:37:13.826Z] info showed user
+[2019-08-04T21:37:25.138Z] info user successfully login
+[2019-08-04T21:38:10.239Z] info server running 8000
+[2019-08-04T21:38:10.424Z] info user connected : 1
+[2019-08-04T21:38:10.531Z] info inserted online user
+[2019-08-04T21:38:10.557Z] info showed user
+[2019-08-04T21:38:15.746Z] info user diconnected 0
+[2019-08-04T21:38:15.755Z] info showing user with socketid
+[2019-08-04T21:38:15.763Z] info updated online status of user
+[2019-08-04T21:38:20.239Z] info user connected : 1
+[2019-08-04T21:38:20.304Z] info inserted online user
+[2019-08-04T21:38:20.307Z] info showed user
+[2019-08-04T21:38:30.726Z] info user successfully login
+[2019-08-04T21:41:47.294Z] info server running 8000
+[2019-08-04T21:41:48.372Z] info user connected : 1
+[2019-08-04T21:41:48.463Z] info inserted online user
+[2019-08-04T21:41:48.487Z] info showed user
+[2019-08-04T21:41:54.750Z] info user diconnected 0
+[2019-08-04T21:41:54.778Z] info showing user with socketid
+[2019-08-04T21:41:54.791Z] info updated online status of user
+[2019-08-04T21:42:00.232Z] info user connected : 1
+[2019-08-04T21:42:00.285Z] info inserted online user
+[2019-08-04T21:42:00.286Z] info showed user
+[2019-08-04T21:42:08.393Z] info user successfully login
+[2019-08-04T21:43:01.170Z] info server running 8000
+[2019-08-04T21:43:01.628Z] info user connected : 1
+[2019-08-04T21:43:01.719Z] info inserted online user
+[2019-08-04T21:43:01.737Z] info showed user
+[2019-08-04T21:43:09.814Z] info user diconnected 0
+[2019-08-04T21:43:09.835Z] info showing user with socketid
+[2019-08-04T21:43:09.860Z] info updated online status of user
+[2019-08-04T21:43:16.152Z] info user connected : 1
+[2019-08-04T21:43:16.218Z] info inserted online user
+[2019-08-04T21:43:16.221Z] info showed user
+[2019-08-04T21:43:25.046Z] info user successfully login
+[2019-08-04T21:44:07.357Z] info server running 8000
+[2019-08-04T21:44:09.484Z] info user connected : 1
+[2019-08-04T21:44:09.582Z] info inserted online user
+[2019-08-04T21:44:09.613Z] info showed user
+[2019-08-04T21:44:22.135Z] info user diconnected 0
+[2019-08-04T21:44:22.142Z] info showing user with socketid
+[2019-08-04T21:44:22.150Z] info updated online status of user
+[2019-08-04T21:44:25.886Z] info user connected : 1
+[2019-08-04T21:44:25.963Z] info inserted online user
+[2019-08-04T21:44:25.965Z] info showed user
+[2019-08-04T21:44:38.825Z] info user successfully login
+[2019-08-04T21:45:20.059Z] info server running 8000
+[2019-08-04T21:45:24.533Z] info user connected : 1
+[2019-08-04T21:45:24.606Z] info inserted online user
+[2019-08-04T21:45:24.614Z] info showed user
+[2019-08-04T21:45:32.555Z] info server running 8000
+[2019-08-04T21:45:33.919Z] info user connected : 1
+[2019-08-04T21:45:34.040Z] info inserted online user
+[2019-08-04T21:45:34.064Z] info showed user
+[2019-08-04T21:45:34.235Z] info user diconnected 0
+[2019-08-04T21:45:34.245Z] info showing user with socketid
+[2019-08-04T21:45:34.252Z] info updated online status of user
+[2019-08-04T21:45:37.147Z] info user connected : 1
+[2019-08-04T21:45:37.232Z] info inserted online user
+[2019-08-04T21:45:37.235Z] info showed user
+[2019-08-04T21:45:46.316Z] error enter correct password
+[2019-08-04T21:45:48.138Z] info user successfully login
+[2019-08-04T21:49:09.867Z] info server running 8000
+[2019-08-04T21:49:13.852Z] info user connected : 1
+[2019-08-04T21:49:13.953Z] info inserted online user
+[2019-08-04T21:49:13.964Z] info showed user
+[2019-08-04T21:49:19.993Z] info server running 8000
+[2019-08-04T21:49:21.863Z] info user connected : 1
+[2019-08-04T21:49:21.953Z] info inserted online user
+[2019-08-04T21:49:21.977Z] info showed user
+[2019-08-04T21:50:14.124Z] info server running 8000
+[2019-08-04T21:50:35.633Z] info server running 8000
+[2019-08-04T21:50:36.432Z] info user connected : 1
+[2019-08-04T21:50:36.530Z] info inserted online user
+[2019-08-04T21:50:36.548Z] info showed user
+[2019-08-04T21:50:45.586Z] info user successfully login
+[2019-08-04T21:51:16.273Z] info server running 8000
+[2019-08-04T21:51:17.204Z] info user connected : 1
+[2019-08-04T21:51:17.295Z] info inserted online user
+[2019-08-04T21:51:17.314Z] info showed user
+[2019-08-04T21:51:19.715Z] info user diconnected 0
+[2019-08-04T21:51:19.735Z] info showing user with socketid
+[2019-08-04T21:51:19.741Z] info updated online status of user
+[2019-08-04T21:51:23.697Z] info user connected : 1
+[2019-08-04T21:51:23.778Z] info inserted online user
+[2019-08-04T21:51:23.780Z] info showed user
+[2019-08-04T21:51:29.225Z] info user successfully login
+[2019-08-04T21:53:45.088Z] info user connected : 2
+[2019-08-04T21:53:45.155Z] info inserted online user
+[2019-08-04T21:53:45.159Z] info showed user
+[2019-08-04T21:53:53.569Z] info user successfully login
+[2019-08-04T21:54:26.009Z] info server running 8000
+[2019-08-04T21:54:27.134Z] info user connected : 1
+[2019-08-04T21:54:27.226Z] info inserted online user
+[2019-08-04T21:54:27.248Z] info showed user
+[2019-08-04T21:54:28.829Z] info user connected : 2
+[2019-08-04T21:54:28.895Z] info inserted online user
+[2019-08-04T21:54:28.898Z] info showed user
+[2019-08-04T21:54:30.088Z] info user diconnected 1
+[2019-08-04T21:54:30.108Z] info showing user with socketid
+[2019-08-04T21:54:30.137Z] info updated online status of user
+[2019-08-04T21:54:33.298Z] info user diconnected 0
+[2019-08-04T21:54:33.300Z] info showing user with socketid
+[2019-08-04T21:54:33.306Z] info updated online status of user
+[2019-08-04T21:54:36.477Z] info user connected : 1
+[2019-08-04T21:54:36.601Z] info inserted online user
+[2019-08-04T21:54:36.604Z] info showed user
+[2019-08-04T21:54:43.030Z] info user successfully login
+[2019-08-04T21:58:36.093Z] info user diconnected 0
+[2019-08-04T21:58:36.102Z] info showing user with socketid
+[2019-08-04T21:58:36.109Z] info updated online status of user
+[2019-08-04T21:59:30.935Z] info server running 8000
+[2019-08-04T22:01:18.867Z] info server running 8000
+[2019-08-04T22:01:31.207Z] info server running 8000
+[2019-08-04T22:01:43.262Z] info server running 8000
+[2019-08-04T22:01:50.929Z] info user connected : 1
+[2019-08-04T22:01:51.454Z] info inserted online user
+[2019-08-04T22:01:51.463Z] info showed user
+[2019-08-04T22:02:31.390Z] info server running 8000
+[2019-08-04T22:02:31.883Z] info user connected : 1
+[2019-08-04T22:02:32.000Z] info inserted online user
+[2019-08-04T22:02:32.011Z] info showed user
+[2019-08-04T22:03:13.956Z] info server running 8000
+[2019-08-04T22:03:15.069Z] info user connected : 1
+[2019-08-04T22:03:15.142Z] info inserted online user
+[2019-08-04T22:03:15.157Z] info showed user
+[2019-08-04T22:03:33.902Z] info server running 8000
+[2019-08-04T22:03:34.788Z] info user successfully login
+[2019-08-04T22:03:34.925Z] info user connected : 1
+[2019-08-04T22:03:34.985Z] info inserted online user
+[2019-08-04T22:03:34.992Z] info showed user
+[2019-08-04T22:03:59.037Z] info server running 8000
+[2019-08-04T22:03:59.781Z] info user connected : 1
+[2019-08-04T22:03:59.849Z] info inserted online user
+[2019-08-04T22:03:59.863Z] info showed user
+[2019-08-04T22:04:03.856Z] info user diconnected 0
+[2019-08-04T22:04:03.861Z] info showing user with socketid
+[2019-08-04T22:04:03.864Z] info updated online status of user
+[2019-08-04T22:04:09.904Z] info user connected : 1
+[2019-08-04T22:04:09.956Z] info inserted online user
+[2019-08-04T22:04:09.958Z] info showed user
+[2019-08-04T22:04:17.574Z] info user successfully login
+[2019-08-04T22:05:40.054Z] info server running 8000
+[2019-08-04T22:05:40.800Z] info user connected : 1
+[2019-08-04T22:05:40.866Z] info inserted online user
+[2019-08-04T22:05:40.887Z] info showed user
+[2019-08-04T22:05:43.509Z] info user successfully login
+[2019-08-04T22:06:04.024Z] info server running 8000
+[2019-08-04T22:06:04.383Z] info user connected : 1
+[2019-08-04T22:06:04.497Z] info inserted online user
+[2019-08-04T22:06:04.519Z] info showed user
+[2019-08-05T03:40:16.075Z] info server running 8000
+[2019-08-05T03:41:19.859Z] info user connected : 1
+[2019-08-05T03:41:21.497Z] info inserted online user
+[2019-08-05T03:41:21.618Z] info showed user
+[2019-08-05T03:41:33.179Z] info user successfully login
+[2019-08-05T04:41:27.143Z] info user diconnected 0
+[2019-08-05T04:41:27.153Z] info showing user with socketid
+[2019-08-05T04:41:27.167Z] info updated online status of user
+[2019-08-05T04:41:29.989Z] info user connected : 1
+[2019-08-05T04:41:30.078Z] info inserted online user
+[2019-08-05T04:41:30.080Z] info showed user
+[2019-08-05T04:41:42.427Z] info user successfully login
+[2019-08-05T04:55:00.351Z] info user diconnected 0
+[2019-08-05T04:55:00.367Z] info showing user with socketid
+[2019-08-05T04:55:00.379Z] info updated online status of user
+[2019-08-05T04:55:07.022Z] info user connected : 1
+[2019-08-05T04:55:07.063Z] info inserted online user
+[2019-08-05T04:55:07.066Z] info showed user
+[2019-08-05T04:56:51.763Z] info user diconnected 0
+[2019-08-05T04:56:51.764Z] info showing user with socketid
+[2019-08-05T04:56:51.766Z] info updated online status of user
+[2019-08-05T04:56:52.451Z] info user connected : 1
+[2019-08-05T04:56:52.624Z] info inserted online user
+[2019-08-05T04:56:52.626Z] info showed user
+[2019-08-05T04:56:59.258Z] info user diconnected 0
+[2019-08-05T04:56:59.263Z] info showing user with socketid
+[2019-08-05T04:56:59.269Z] info updated online status of user
+[2019-08-05T04:57:02.229Z] info user connected : 1
+[2019-08-05T04:57:02.281Z] info inserted online user
+[2019-08-05T04:57:02.286Z] info showed user
+[2019-08-05T04:59:44.930Z] info user diconnected 0
+[2019-08-05T04:59:44.931Z] info showing user with socketid
+[2019-08-05T04:59:44.932Z] info updated online status of user
+[2019-08-05T04:59:47.567Z] info user connected : 1
+[2019-08-05T04:59:47.663Z] info inserted online user
+[2019-08-05T04:59:47.666Z] info showed user
+[2019-08-05T05:00:18.747Z] info user diconnected 0
+[2019-08-05T05:00:18.752Z] info showing user with socketid
+[2019-08-05T05:00:18.753Z] info updated online status of user
+[2019-08-05T05:00:19.625Z] info user connected : 1
+[2019-08-05T05:00:19.744Z] info inserted online user
+[2019-08-05T05:00:19.745Z] info showed user
+[2019-08-05T05:00:46.522Z] info user diconnected 0
+[2019-08-05T05:00:46.524Z] info showing user with socketid
+[2019-08-05T05:00:46.527Z] info updated online status of user
+[2019-08-05T05:00:46.969Z] info user connected : 1
+[2019-08-05T05:00:47.059Z] info inserted online user
+[2019-08-05T05:00:47.063Z] info showed user
+[2019-08-05T05:01:01.166Z] info user diconnected 0
+[2019-08-05T05:01:01.168Z] info showing user with socketid
+[2019-08-05T05:01:01.169Z] info updated online status of user
+[2019-08-05T05:01:01.749Z] info user connected : 1
+[2019-08-05T05:01:01.875Z] info inserted online user
+[2019-08-05T05:01:01.882Z] info showed user
+[2019-08-05T05:01:31.734Z] info user diconnected 0
+[2019-08-05T05:01:31.735Z] info showing user with socketid
+[2019-08-05T05:01:31.737Z] info updated online status of user
+[2019-08-05T05:01:32.379Z] info user connected : 1
+[2019-08-05T05:01:32.466Z] info inserted online user
+[2019-08-05T05:01:32.467Z] info showed user
+[2019-08-05T05:01:39.429Z] info user successfully login
+[2019-08-05T05:04:10.836Z] info user diconnected 0
+[2019-08-05T05:04:10.839Z] info showing user with socketid
+[2019-08-05T05:04:10.840Z] info updated online status of user
+[2019-08-05T05:04:14.680Z] info user connected : 1
+[2019-08-05T05:04:14.792Z] info inserted online user
+[2019-08-05T05:04:14.793Z] info showed user
+[2019-08-05T05:04:19.911Z] info user diconnected 0
+[2019-08-05T05:04:19.912Z] info showing user with socketid
+[2019-08-05T05:04:19.913Z] info updated online status of user
+[2019-08-05T05:04:20.723Z] info user connected : 1
+[2019-08-05T05:04:20.807Z] info inserted online user
+[2019-08-05T05:04:20.810Z] info showed user
+[2019-08-05T05:04:34.939Z] info user successfully login
+[2019-08-05T05:05:38.614Z] info user diconnected 0
+[2019-08-05T05:05:38.616Z] info showing user with socketid
+[2019-08-05T05:05:38.618Z] info updated online status of user
+[2019-08-05T05:05:39.580Z] info user connected : 1
+[2019-08-05T05:05:39.700Z] info inserted online user
+[2019-08-05T05:05:39.703Z] info showed user
+[2019-08-05T05:06:01.050Z] info user successfully login
+[2019-08-05T05:06:35.106Z] info user diconnected 0
+[2019-08-05T05:06:35.107Z] info showing user with socketid
+[2019-08-05T05:06:35.109Z] info updated online status of user
+[2019-08-05T05:06:35.998Z] info user connected : 1
+[2019-08-05T05:06:36.098Z] info inserted online user
+[2019-08-05T05:06:36.102Z] info showed user
+[2019-08-05T05:06:47.459Z] info user successfully login
+[2019-08-05T05:10:29.536Z] info user diconnected 0
+[2019-08-05T05:10:29.545Z] info showing user with socketid
+[2019-08-05T05:10:29.546Z] info updated online status of user
+[2019-08-05T05:10:30.383Z] info user connected : 1
+[2019-08-05T05:10:30.497Z] info inserted online user
+[2019-08-05T05:10:30.498Z] info showed user
+[2019-08-05T05:10:48.602Z] info user successfully login
+[2019-08-05T05:12:28.202Z] info user diconnected 0
+[2019-08-05T05:12:28.206Z] info showing user with socketid
+[2019-08-05T05:12:28.208Z] info updated online status of user
+[2019-08-05T05:12:29.172Z] info user connected : 1
+[2019-08-05T05:12:29.275Z] info inserted online user
+[2019-08-05T05:12:29.277Z] info showed user
+[2019-08-05T05:12:37.527Z] info user successfully login
+[2019-08-05T05:20:27.706Z] info user diconnected 0
+[2019-08-05T05:20:27.709Z] info showing user with socketid
+[2019-08-05T05:20:27.710Z] info updated online status of user
+[2019-08-05T05:20:28.570Z] info user connected : 1
+[2019-08-05T05:20:28.677Z] info inserted online user
+[2019-08-05T05:20:28.678Z] info showed user
+[2019-08-05T05:20:36.840Z] info user successfully login
+[2019-08-05T05:23:51.523Z] info user diconnected 0
+[2019-08-05T05:23:51.526Z] info showing user with socketid
+[2019-08-05T05:23:51.531Z] info updated online status of user
+[2019-08-05T05:23:52.430Z] info user connected : 1
+[2019-08-05T05:23:52.533Z] info inserted online user
+[2019-08-05T05:23:52.537Z] info showed user
+[2019-08-05T05:24:00.485Z] info user diconnected 0
+[2019-08-05T05:24:00.491Z] info showing user with socketid
+[2019-08-05T05:24:00.495Z] info updated online status of user
+[2019-08-05T05:24:01.289Z] info user connected : 1
+[2019-08-05T05:24:01.366Z] info inserted online user
+[2019-08-05T05:24:01.368Z] info showed user
+[2019-08-05T05:24:45.392Z] info user diconnected 0
+[2019-08-05T05:24:45.393Z] info showing user with socketid
+[2019-08-05T05:24:45.395Z] info updated online status of user
+[2019-08-05T05:24:46.298Z] info user connected : 1
+[2019-08-05T05:24:46.436Z] info inserted online user
+[2019-08-05T05:24:46.441Z] info showed user
+[2019-08-05T05:25:15.139Z] info user successfully login
+[2019-08-05T05:26:54.405Z] info user diconnected 0
+[2019-08-05T05:26:54.407Z] info showing user with socketid
+[2019-08-05T05:26:54.409Z] info updated online status of user
+[2019-08-05T05:26:55.345Z] info user connected : 1
+[2019-08-05T05:26:55.440Z] info inserted online user
+[2019-08-05T05:26:55.441Z] info showed user
+[2019-08-05T05:27:15.332Z] info user diconnected 0
+[2019-08-05T05:27:15.334Z] info showing user with socketid
+[2019-08-05T05:27:15.335Z] info updated online status of user
+[2019-08-05T05:27:16.306Z] info user connected : 1
+[2019-08-05T05:27:16.397Z] info inserted online user
+[2019-08-05T05:27:16.398Z] info showed user
+[2019-08-05T05:32:49.713Z] info user diconnected 0
+[2019-08-05T05:32:49.715Z] info showing user with socketid
+[2019-08-05T05:32:49.717Z] info updated online status of user
+[2019-08-05T05:32:50.669Z] info user connected : 1
+[2019-08-05T05:32:50.838Z] info inserted online user
+[2019-08-05T05:32:50.839Z] info showed user
+[2019-08-05T05:34:15.269Z] info user diconnected 0
+[2019-08-05T05:34:15.270Z] info showing user with socketid
+[2019-08-05T05:34:15.272Z] info updated online status of user
+[2019-08-05T05:34:16.122Z] info user connected : 1
+[2019-08-05T05:34:16.277Z] info inserted online user
+[2019-08-05T05:34:16.278Z] info showed user
+[2019-08-05T05:34:25.704Z] info user diconnected 0
+[2019-08-05T05:34:25.705Z] info showing user with socketid
+[2019-08-05T05:34:25.707Z] info updated online status of user
+[2019-08-05T05:34:26.939Z] info user connected : 1
+[2019-08-05T05:34:27.014Z] info inserted online user
+[2019-08-05T05:34:27.015Z] info showed user
+[2019-08-05T05:34:44.438Z] info user successfully login
+[2019-08-05T05:35:28.189Z] info user diconnected 0
+[2019-08-05T05:35:28.191Z] info showing user with socketid
+[2019-08-05T05:35:28.192Z] info updated online status of user
+[2019-08-05T05:35:30.100Z] info user connected : 1
+[2019-08-05T05:35:30.238Z] info inserted online user
+[2019-08-05T05:35:30.242Z] info showed user
+[2019-08-05T05:35:45.505Z] info user successfully login
+[2019-08-05T05:36:31.602Z] info user diconnected 0
+[2019-08-05T05:36:31.605Z] info showing user with socketid
+[2019-08-05T05:36:31.606Z] info updated online status of user
+[2019-08-05T05:36:32.550Z] info user connected : 1
+[2019-08-05T05:36:32.608Z] info inserted online user
+[2019-08-05T05:36:32.610Z] info showed user
+[2019-08-05T05:37:04.799Z] info user successfully login
+[2019-08-05T05:39:36.862Z] info user diconnected 0
+[2019-08-05T05:39:36.865Z] info showing user with socketid
+[2019-08-05T05:39:36.867Z] info updated online status of user
+[2019-08-05T05:39:42.557Z] info user connected : 1
+[2019-08-05T05:39:42.628Z] info inserted online user
+[2019-08-05T05:39:42.633Z] info showed user
+[2019-08-05T05:39:52.179Z] info user successfully login
+[2019-08-05T05:41:48.898Z] info user diconnected 0
+[2019-08-05T05:41:48.900Z] info showing user with socketid
+[2019-08-05T05:41:48.904Z] info updated online status of user
+[2019-08-05T05:41:49.879Z] info user connected : 1
+[2019-08-05T05:41:49.959Z] info inserted online user
+[2019-08-05T05:41:49.963Z] info showed user
+[2019-08-05T05:41:56.237Z] info user successfully login
+[2019-08-05T05:45:01.004Z] info user diconnected 0
+[2019-08-05T05:45:01.007Z] info showing user with socketid
+[2019-08-05T05:45:01.009Z] info updated online status of user
+[2019-08-05T05:45:02.048Z] info user connected : 1
+[2019-08-05T05:45:02.128Z] info inserted online user
+[2019-08-05T05:45:02.137Z] info showed user
+[2019-08-05T05:45:04.297Z] info user diconnected 0
+[2019-08-05T05:45:04.299Z] info showing user with socketid
+[2019-08-05T05:45:04.301Z] info updated online status of user
+[2019-08-05T05:45:05.617Z] info user connected : 1
+[2019-08-05T05:45:05.690Z] info inserted online user
+[2019-08-05T05:45:05.692Z] info showed user
+[2019-08-05T05:45:32.031Z] info user diconnected 0
+[2019-08-05T05:45:32.034Z] info showing user with socketid
+[2019-08-05T05:45:32.035Z] info updated online status of user
+[2019-08-05T05:45:33.176Z] info user connected : 1
+[2019-08-05T05:45:33.253Z] info inserted online user
+[2019-08-05T05:45:33.260Z] info showed user
+[2019-08-05T05:45:43.565Z] info user successfully login
+[2019-08-05T05:50:06.450Z] info user diconnected 0
+[2019-08-05T05:50:06.453Z] info showing user with socketid
+[2019-08-05T05:50:06.454Z] info updated online status of user
+[2019-08-05T05:50:07.381Z] info user connected : 1
+[2019-08-05T05:50:07.489Z] info inserted online user
+[2019-08-05T05:50:07.496Z] info showed user
+[2019-08-05T05:50:18.120Z] info user successfully login
+[2019-08-05T05:51:34.491Z] info user diconnected 0
+[2019-08-05T05:51:34.495Z] info showing user with socketid
+[2019-08-05T05:51:34.497Z] info updated online status of user
+[2019-08-05T05:51:35.628Z] info user connected : 1
+[2019-08-05T05:51:35.749Z] info inserted online user
+[2019-08-05T05:51:35.752Z] info showed user
+[2019-08-05T05:51:53.218Z] info user successfully login
+[2019-08-05T05:56:19.435Z] info user diconnected 0
+[2019-08-05T05:56:19.440Z] info showing user with socketid
+[2019-08-05T05:56:19.442Z] info updated online status of user
+[2019-08-05T05:56:20.446Z] info user connected : 1
+[2019-08-05T05:56:20.533Z] info inserted online user
+[2019-08-05T05:56:20.537Z] info showed user
+[2019-08-05T05:56:29.179Z] info user successfully login
+[2019-08-05T05:58:17.946Z] info user diconnected 0
+[2019-08-05T05:58:17.948Z] info showing user with socketid
+[2019-08-05T05:58:17.950Z] info updated online status of user
+[2019-08-05T05:58:18.954Z] info user connected : 1
+[2019-08-05T05:58:19.066Z] info inserted online user
+[2019-08-05T05:58:19.075Z] info showed user
+[2019-08-05T05:58:31.519Z] info user successfully login
+[2019-08-05T05:59:20.665Z] info user diconnected 0
+[2019-08-05T05:59:20.668Z] info showing user with socketid
+[2019-08-05T05:59:20.676Z] info updated online status of user
+[2019-08-05T05:59:21.651Z] info user connected : 1
+[2019-08-05T05:59:21.774Z] info inserted online user
+[2019-08-05T05:59:21.779Z] info showed user
+[2019-08-05T05:59:25.365Z] info user diconnected 0
+[2019-08-05T05:59:25.366Z] info showing user with socketid
+[2019-08-05T05:59:25.367Z] info updated online status of user
+[2019-08-05T05:59:26.352Z] info user connected : 1
+[2019-08-05T05:59:26.433Z] info inserted online user
+[2019-08-05T05:59:26.434Z] info showed user
+[2019-08-05T05:59:35.386Z] info user successfully login
+[2019-08-05T06:02:28.958Z] info user diconnected 0
+[2019-08-05T06:02:28.961Z] info showing user with socketid
+[2019-08-05T06:02:28.963Z] info updated online status of user
+[2019-08-05T06:02:30.082Z] info user connected : 1
+[2019-08-05T06:02:30.191Z] info inserted online user
+[2019-08-05T06:02:30.192Z] info showed user
+[2019-08-05T06:02:42.814Z] info user successfully login
+[2019-08-05T06:06:19.128Z] info user diconnected 0
+[2019-08-05T06:06:19.130Z] info showing user with socketid
+[2019-08-05T06:06:19.132Z] info updated online status of user
+[2019-08-05T06:06:20.159Z] info user connected : 1
+[2019-08-05T06:06:20.207Z] info inserted online user
+[2019-08-05T06:06:20.208Z] info showed user
+[2019-08-05T06:06:38.170Z] info user successfully login
+[2019-08-05T06:08:25.272Z] info user diconnected 0
+[2019-08-05T06:08:25.273Z] info showing user with socketid
+[2019-08-05T06:08:25.275Z] info updated online status of user
+[2019-08-05T06:08:26.246Z] info user connected : 1
+[2019-08-05T06:08:26.330Z] info inserted online user
+[2019-08-05T06:08:26.333Z] info showed user
+[2019-08-05T06:08:33.579Z] info user successfully login
+[2019-08-05T06:09:47.539Z] info user diconnected 0
+[2019-08-05T06:09:47.544Z] info showing user with socketid
+[2019-08-05T06:09:47.547Z] info updated online status of user
+[2019-08-05T06:09:48.485Z] info user connected : 1
+[2019-08-05T06:09:48.568Z] info inserted online user
+[2019-08-05T06:09:48.571Z] info showed user
+[2019-08-05T06:10:03.128Z] info user successfully login
+[2019-08-05T06:10:15.616Z] info user diconnected 0
+[2019-08-05T06:10:15.618Z] info showing user with socketid
+[2019-08-05T06:10:15.621Z] info updated online status of user
+[2019-08-05T06:10:16.554Z] info user connected : 1
+[2019-08-05T06:10:16.645Z] info inserted online user
+[2019-08-05T06:10:16.649Z] info showed user
+[2019-08-05T06:10:24.936Z] info user successfully login
+[2019-08-05T06:11:52.071Z] info user diconnected 0
+[2019-08-05T06:11:52.077Z] info showing user with socketid
+[2019-08-05T06:11:52.083Z] info updated online status of user
+[2019-08-05T06:11:53.100Z] info user connected : 1
+[2019-08-05T06:11:53.184Z] info inserted online user
+[2019-08-05T06:11:53.185Z] info showed user
+[2019-08-05T06:12:02.975Z] info user successfully login
+[2019-08-05T06:12:54.231Z] info user diconnected 0
+[2019-08-05T06:12:54.232Z] info showing user with socketid
+[2019-08-05T06:12:54.234Z] info updated online status of user
+[2019-08-05T06:12:55.116Z] info user connected : 1
+[2019-08-05T06:12:55.213Z] info inserted online user
+[2019-08-05T06:12:55.217Z] info showed user
+[2019-08-05T06:13:14.526Z] info user diconnected 0
+[2019-08-05T06:13:14.527Z] info showing user with socketid
+[2019-08-05T06:13:14.531Z] info updated online status of user
+[2019-08-05T06:13:15.897Z] info user connected : 1
+[2019-08-05T06:13:15.971Z] info inserted online user
+[2019-08-05T06:13:15.971Z] info showed user
+[2019-08-05T06:13:21.801Z] info user diconnected 0
+[2019-08-05T06:13:21.802Z] info showing user with socketid
+[2019-08-05T06:13:21.804Z] info updated online status of user
+[2019-08-05T06:13:22.657Z] info user connected : 1
+[2019-08-05T06:13:22.921Z] info inserted online user
+[2019-08-05T06:13:22.923Z] info showed user
+[2019-08-05T06:13:37.266Z] info user successfully login
+[2019-08-05T06:15:33.818Z] info user diconnected 0
+[2019-08-05T06:15:33.820Z] info showing user with socketid
+[2019-08-05T06:15:33.825Z] info updated online status of user
+[2019-08-05T06:15:39.844Z] info user connected : 1
+[2019-08-05T06:15:39.918Z] info inserted online user
+[2019-08-05T06:15:39.923Z] info showed user
+[2019-08-05T06:16:15.009Z] info user successfully login
+[2019-08-05T06:17:28.980Z] info user diconnected 0
+[2019-08-05T06:17:28.982Z] info showing user with socketid
+[2019-08-05T06:17:28.985Z] info updated online status of user
+[2019-08-05T06:17:48.614Z] info server running 8000
+[2019-08-05T06:18:11.380Z] info user connected : 1
+[2019-08-05T06:18:11.768Z] info inserted online user
+[2019-08-05T06:18:11.799Z] info showed user
+[2019-08-05T06:18:11.943Z] info user successfully login
+[2019-08-05T06:20:47.771Z] info user diconnected 0
+[2019-08-05T06:20:47.776Z] info showing user with socketid
+[2019-08-05T06:20:47.789Z] info updated online status of user
+[2019-08-05T06:21:37.540Z] info user successfully login
+[2019-08-05T06:21:37.551Z] info user connected : 1
+[2019-08-05T06:21:37.586Z] info inserted online user
+[2019-08-05T06:21:37.588Z] info showed user
+[2019-08-05T06:25:10.593Z] info user diconnected 0
+[2019-08-05T06:25:10.595Z] info showing user with socketid
+[2019-08-05T06:25:10.600Z] info updated online status of user
+[2019-08-05T06:25:31.056Z] info user successfully login
+[2019-08-05T06:25:31.069Z] info user connected : 1
+[2019-08-05T06:25:31.100Z] info inserted online user
+[2019-08-05T06:25:31.102Z] info showed user
+[2019-08-05T06:25:53.728Z] info user diconnected 0
+[2019-08-05T06:25:53.733Z] info showing user with socketid
+[2019-08-05T06:25:53.741Z] info updated online status of user
+[2019-08-05T06:26:06.191Z] info user successfully login
+[2019-08-05T06:26:06.202Z] info user connected : 1
+[2019-08-05T06:26:06.230Z] info inserted online user
+[2019-08-05T06:26:06.232Z] info showed user
+[2019-08-05T06:26:34.348Z] info user diconnected 0
+[2019-08-05T06:26:34.351Z] info showing user with socketid
+[2019-08-05T06:26:34.353Z] info updated online status of user
+[2019-08-05T06:26:46.491Z] info user successfully login
+[2019-08-05T06:26:46.502Z] info user connected : 1
+[2019-08-05T06:26:46.542Z] info inserted online user
+[2019-08-05T06:26:46.545Z] info showed user
+[2019-08-05T06:27:39.399Z] info server running 8000
+[2019-08-05T06:27:55.835Z] info user successfully login
+[2019-08-05T06:27:55.866Z] info user connected : 1
+[2019-08-05T06:27:55.899Z] info inserted online user
+[2019-08-05T06:27:55.903Z] info showed user
+[2019-08-05T06:28:28.841Z] info server running 8000
+[2019-08-05T06:28:29.518Z] info user connected : 1
+[2019-08-05T06:28:29.611Z] info inserted online user
+[2019-08-05T06:28:29.620Z] info showed user
+[2019-08-05T06:28:31.999Z] info user diconnected 0
+[2019-08-05T06:28:32.002Z] info showing user with socketid
+[2019-08-05T06:28:32.007Z] info updated online status of user
+[2019-08-05T06:28:50.395Z] info user successfully login
+[2019-08-05T06:28:50.408Z] info user connected : 1
+[2019-08-05T06:28:50.445Z] info inserted online user
+[2019-08-05T06:28:50.447Z] info showed user
+[2019-08-05T06:29:03.733Z] info server running 8000
+[2019-08-05T06:29:04.856Z] info user connected : 1
+[2019-08-05T06:29:04.946Z] info inserted online user
+[2019-08-05T06:29:04.971Z] info showed user
+[2019-08-05T06:29:16.604Z] info user diconnected 0
+[2019-08-05T06:29:16.616Z] info showing user with socketid
+[2019-08-05T06:29:16.626Z] info updated online status of user
+[2019-08-05T06:29:40.268Z] info user successfully login
+[2019-08-05T06:29:40.282Z] info user connected : 1
+[2019-08-05T06:29:40.344Z] info inserted online user
+[2019-08-05T06:29:40.346Z] info showed user
+[2019-08-05T06:30:27.617Z] info server running 8000
+[2019-08-05T06:30:28.422Z] info user connected : 1
+[2019-08-05T06:30:28.518Z] info inserted online user
+[2019-08-05T06:30:28.539Z] info showed user
+[2019-08-05T06:30:31.347Z] info server running 8000
+[2019-08-05T06:30:32.090Z] info user connected : 1
+[2019-08-05T06:30:32.170Z] info inserted online user
+[2019-08-05T06:30:32.260Z] info showed user
+[2019-08-05T06:30:34.317Z] info user diconnected 0
+[2019-08-05T06:30:34.328Z] info showing user with socketid
+[2019-08-05T06:30:34.334Z] info updated online status of user
+[2019-08-05T06:30:47.908Z] info user successfully login
+[2019-08-05T06:30:47.921Z] info user connected : 1
+[2019-08-05T06:30:48.082Z] info inserted online user
+[2019-08-05T06:31:11.840Z] info server running 8000
+[2019-08-05T06:31:11.894Z] info user connected : 1
+[2019-08-05T06:31:12.006Z] info inserted online user
+[2019-08-05T06:31:12.015Z] info showed user
+[2019-08-05T06:31:16.019Z] info user diconnected 0
+[2019-08-05T06:31:16.030Z] info showing user with socketid
+[2019-08-05T06:31:16.038Z] info updated online status of user
+[2019-08-05T06:31:24.924Z] info user successfully login
+[2019-08-05T06:31:24.940Z] info user connected : 1
+[2019-08-05T06:31:24.986Z] info inserted online user
+[2019-08-05T06:31:24.989Z] info showed user
+[2019-08-05T06:31:35.648Z] info server running 8000
+[2019-08-05T06:31:36.330Z] info user connected : 1
+[2019-08-05T06:31:36.445Z] info inserted online user
+[2019-08-05T06:31:36.469Z] info showed user
+[2019-08-05T06:31:38.643Z] info user diconnected 0
+[2019-08-05T06:31:38.654Z] info showing user with socketid
+[2019-08-05T06:31:38.677Z] info updated online status of user
+[2019-08-05T06:31:50.055Z] info user successfully login
+[2019-08-05T06:31:50.069Z] info user connected : 1
+[2019-08-05T06:31:50.106Z] info inserted online user
+[2019-08-05T06:31:50.107Z] info showed user
+[2019-08-05T06:32:12.901Z] info server running 8000
+[2019-08-05T06:32:12.935Z] info user connected : 1
+[2019-08-05T06:32:13.033Z] info inserted online user
+[2019-08-05T06:32:13.041Z] info showed user
+[2019-08-05T06:32:13.523Z] info user diconnected 0
+[2019-08-05T06:32:13.536Z] info showing user with socketid
+[2019-08-05T06:32:13.549Z] info updated online status of user
+[2019-08-05T06:32:25.804Z] info user successfully login
+[2019-08-05T06:32:25.822Z] info user connected : 1
+[2019-08-05T06:32:25.852Z] info inserted online user
+[2019-08-05T06:32:25.853Z] info showed user
+[2019-08-05T06:34:20.903Z] info server running 8000
+[2019-08-05T06:34:21.801Z] info user connected : 1
+[2019-08-05T06:34:21.883Z] info inserted online user
+[2019-08-05T06:34:21.892Z] info showed user
+[2019-08-05T06:34:30.888Z] info user diconnected 0
+[2019-08-05T06:34:30.900Z] info showing user with socketid
+[2019-08-05T06:34:30.909Z] info updated online status of user
+[2019-08-05T06:34:42.365Z] info user successfully login
+[2019-08-05T06:34:42.377Z] info user connected : 1
+[2019-08-05T06:34:42.470Z] info inserted online user
+[2019-08-05T06:34:42.473Z] info showed user
+[2019-08-05T06:34:42.549Z] info updated online status of user
+[2019-08-05T06:34:42.551Z] info error in showing online user:Error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'userDb.ou.socketid' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[2019-08-05T06:37:11.732Z] info server running 8000
+[2019-08-05T06:38:20.708Z] info server running 8000
+[2019-08-05T06:38:22.439Z] info user connected : 1
+[2019-08-05T06:38:22.473Z] info error in inserting online user:Error: Column 'userid' cannot be null
+[2019-08-05T06:39:57.166Z] info server running 8000
+[2019-08-05T06:40:04.893Z] info user diconnected 0
+[2019-08-05T06:40:04.956Z] info showing user with socketid
+[2019-08-05T06:40:42.251Z] info server running 8000
+[2019-08-05T06:40:58.343Z] info user successfully login
+[2019-08-05T06:40:58.465Z] info user connected : 1
+[2019-08-05T06:40:58.530Z] info inserted online user
+[2019-08-05T06:40:58.533Z] info showed user
+[2019-08-05T06:40:58.575Z] info updated online status of user
+[2019-08-05T06:40:58.577Z] info error in showing online user:Error: Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'userDb.ou.socketid' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[2019-08-05T06:46:54.394Z] info user diconnected 0
+[2019-08-05T06:46:54.406Z] info showing user with socketid
+[2019-08-05T06:46:54.473Z] info updated online status of user
+[2019-08-05T06:47:05.073Z] info server running 8000
+[2019-08-05T06:47:18.645Z] info user successfully login
+[2019-08-05T06:47:18.721Z] info user connected : 1
+[2019-08-05T06:47:18.776Z] info inserted online user
+[2019-08-05T06:47:18.781Z] info showed user
+[2019-08-05T06:47:18.810Z] info updated online status of user
+[2019-08-05T06:47:18.813Z] info showed online user
+[2019-08-05T06:49:04.209Z] info server running 8000
+[2019-08-05T06:49:19.794Z] info user diconnected 0
+[2019-08-05T06:49:19.841Z] info showing user with socketid
+[2019-08-05T06:49:37.690Z] info server running 8000
+[2019-08-05T06:49:58.211Z] info user successfully login
+[2019-08-05T06:49:58.283Z] info user connected : 1
+[2019-08-05T06:49:58.341Z] info inserted online user
+[2019-08-05T06:49:58.344Z] info showed user
+[2019-08-05T06:49:58.386Z] info updated online status of user
+[2019-08-05T06:49:58.389Z] info showed online user
+[2019-08-05T06:50:45.049Z] error enter correct password
+[2019-08-05T06:51:01.048Z] info user successfully login
+[2019-08-05T06:51:01.118Z] info user connected : 2
+[2019-08-05T06:51:01.211Z] info inserted online user
+[2019-08-05T06:51:01.212Z] info showed user
+[2019-08-05T06:51:01.244Z] info updated online status of user
+[2019-08-05T06:51:01.246Z] info showed online user
+[2019-08-05T06:52:00.377Z] info server running 8000
+[2019-08-05T06:52:04.887Z] info user diconnected 1
+[2019-08-05T06:52:04.972Z] info showing user with socketid
+[2019-08-05T06:52:05.528Z] info user diconnected 0
+[2019-08-05T06:52:05.539Z] info showing user with socketid
+[2019-08-05T06:52:10.151Z] info server running 8000
+[2019-08-05T06:52:20.895Z] info user successfully login
+[2019-08-05T06:52:20.968Z] info user connected : 1
+[2019-08-05T06:52:21.017Z] info inserted online user
+[2019-08-05T06:52:21.020Z] info showed user
+[2019-08-05T06:52:21.050Z] info updated online status of user
+[2019-08-05T06:52:21.053Z] info showed online user
+[2019-08-05T06:53:13.761Z] info server running 8000
+[2019-08-05T06:53:16.689Z] info server running 8000
+[2019-08-05T06:53:19.072Z] info user diconnected 0
+[2019-08-05T06:53:19.152Z] info showing user with socketid
+[2019-08-05T06:53:24.303Z] info server running 8000
+[2019-08-05T06:53:35.450Z] info user successfully login
+[2019-08-05T06:53:35.527Z] info user connected : 1
+[2019-08-05T06:53:35.579Z] info inserted online user
+[2019-08-05T06:53:35.581Z] info showed user
+[2019-08-05T06:53:35.612Z] info updated online status of user
+[2019-08-05T06:53:35.615Z] info showed online user
+[2019-08-05T06:54:14.388Z] info server running 8000
+[2019-08-05T06:54:16.877Z] info user diconnected 0
+[2019-08-05T06:54:16.922Z] info showing user with socketid
+[2019-08-05T06:54:21.465Z] info server running 8000
+[2019-08-05T06:54:31.527Z] info server running 8000
+[2019-08-05T06:54:43.126Z] info user successfully login
+[2019-08-05T06:54:43.187Z] info user connected : 1
+[2019-08-05T06:54:43.235Z] info inserted online user
+[2019-08-05T06:54:43.237Z] info showed user
+[2019-08-05T06:54:43.268Z] info updated online status of user
+[2019-08-05T06:54:43.270Z] info showed online user
+[2019-08-05T06:54:58.255Z] info server running 8000
+[2019-08-05T06:55:10.614Z] info user successfully login
+[2019-08-05T06:55:10.683Z] info user connected : 1
+[2019-08-05T06:55:10.739Z] info inserted online user
+[2019-08-05T06:55:10.743Z] info showed user
+[2019-08-05T06:55:10.772Z] info updated online status of user
+[2019-08-05T06:55:10.774Z] info showed online user
+[2019-08-05T06:57:48.115Z] info server running 8000
+[2019-08-05T06:57:51.039Z] info user diconnected 0
+[2019-08-05T06:57:51.097Z] info showing user with socketid
+[2019-08-05T06:57:55.578Z] info server running 8000
+[2019-08-05T06:58:07.159Z] info user successfully login
+[2019-08-05T06:58:07.232Z] info user connected : 1
+[2019-08-05T06:58:07.292Z] info inserted online user
+[2019-08-05T06:58:07.295Z] info showed user
+[2019-08-05T06:58:07.325Z] info updated online status of user
+[2019-08-05T06:58:07.327Z] info showed online user
+[2019-08-05T06:58:56.106Z] info server running 8000
+[2019-08-05T06:58:57.012Z] info user diconnected 0
+[2019-08-05T06:58:57.071Z] info showing user with socketid
+[2019-08-05T06:59:01.948Z] info server running 8000
+[2019-08-05T06:59:17.916Z] info user successfully login
+[2019-08-05T06:59:17.990Z] info user connected : 1
+[2019-08-05T06:59:18.055Z] info inserted online user
+[2019-08-05T06:59:18.057Z] info showed user
+[2019-08-05T06:59:18.088Z] info updated online status of user
+[2019-08-05T06:59:18.092Z] info showed online user
+[2019-08-05T07:02:13.858Z] info server running 8000
+[2019-08-05T07:02:55.804Z] info server running 8000
+[2019-08-05T07:04:10.202Z] info user diconnected 0
+[2019-08-05T07:04:10.287Z] info showing user with socketid
+[2019-08-05T07:05:13.680Z] info server running 8000
+[2019-08-05T07:05:37.345Z] info user successfully login
+[2019-08-05T07:05:37.449Z] info user connected : 1
+[2019-08-05T07:05:37.509Z] info inserted online user
+[2019-08-05T07:05:37.513Z] info showed user
+[2019-08-05T07:05:37.609Z] info updated online status of user
+[2019-08-05T07:05:37.611Z] info showed online user
+[2019-08-05T07:07:10.651Z] info user diconnected 0
+[2019-08-05T07:07:10.657Z] info showing user with socketid
+[2019-08-05T07:07:10.749Z] info updated online status of user
+[2019-08-05T07:07:28.036Z] info server running 8000
+[2019-08-05T07:08:05.798Z] info user successfully login
+[2019-08-05T07:08:05.861Z] info user connected : 1
+[2019-08-05T07:08:05.912Z] info inserted online user
+[2019-08-05T07:08:05.915Z] info showed user
+[2019-08-05T07:08:05.956Z] info updated online status of user
+[2019-08-05T07:08:05.958Z] info showed online user
+[2019-08-05T07:08:35.878Z] info user diconnected 0
+[2019-08-05T07:08:35.881Z] info showing user with socketid
+[2019-08-05T07:08:35.941Z] info updated online status of user
+[2019-08-05T07:10:19.321Z] info user successfully login
+[2019-08-05T07:10:19.398Z] info user connected : 1
+[2019-08-05T07:10:19.451Z] info inserted online user
+[2019-08-05T07:10:19.452Z] info showed user
+[2019-08-05T07:10:19.484Z] info updated online status of user
+[2019-08-05T07:10:19.487Z] info showed online user
+[2019-08-05T07:10:39.197Z] info user successfully login
+[2019-08-05T07:10:39.248Z] info user connected : 2
+[2019-08-05T07:10:39.277Z] info inserted online user
+[2019-08-05T07:10:39.278Z] info showed user
+[2019-08-05T07:10:39.312Z] info updated online status of user
+[2019-08-05T07:10:39.314Z] info showed online user
+[2019-08-05T07:14:02.633Z] info user diconnected 1
+[2019-08-05T07:14:02.636Z] info showing user with socketid
+[2019-08-05T07:14:02.645Z] info user diconnected 0
+[2019-08-05T07:14:02.651Z] info showing user with socketid
+[2019-08-05T07:14:02.709Z] info updated online status of user
+[2019-08-05T07:14:02.750Z] info updated online status of user
+[2019-08-05T07:14:11.320Z] info server running 8000
+[2019-08-05T07:14:41.090Z] info user successfully login
+[2019-08-05T07:14:41.192Z] info user connected : 1
+[2019-08-05T07:14:41.249Z] info inserted online user
+[2019-08-05T07:14:41.253Z] info showed user
+[2019-08-05T07:14:41.282Z] info updated online status of user
+[2019-08-05T07:14:41.287Z] info showed online user
+[2019-08-05T07:15:06.965Z] info user successfully login
+[2019-08-05T07:15:07.060Z] info user connected : 2
+[2019-08-05T07:15:07.142Z] info inserted online user
+[2019-08-05T07:15:07.146Z] info showed user
+[2019-08-05T07:15:07.176Z] info updated online status of user
+[2019-08-05T07:15:07.178Z] info showed online user
+[2019-08-05T07:16:31.857Z] info user diconnected 1
+[2019-08-05T07:16:31.864Z] info showing user with socketid
+[2019-08-05T07:16:31.898Z] info user diconnected 0
+[2019-08-05T07:16:31.903Z] info showing user with socketid
+[2019-08-05T07:16:32.006Z] info updated online status of user
+[2019-08-05T07:16:32.040Z] info updated online status of user
+[2019-08-05T07:17:19.125Z] info server running 8000
+[2019-08-05T07:17:48.597Z] error enter correct password
+[2019-08-05T07:17:55.309Z] info user successfully login
+[2019-08-05T07:17:55.382Z] info user connected : 1
+[2019-08-05T07:17:55.432Z] info inserted online user
+[2019-08-05T07:17:55.435Z] info showed user
+[2019-08-05T07:17:55.489Z] info updated online status of user
+[2019-08-05T07:17:55.492Z] info showed online user
+[2019-08-05T07:18:33.451Z] info user successfully login
+[2019-08-05T07:18:33.538Z] info user connected : 2
+[2019-08-05T07:18:33.603Z] info inserted online user
+[2019-08-05T07:18:33.606Z] info showed user
+[2019-08-05T07:18:33.648Z] info updated online status of user
+[2019-08-05T07:18:33.649Z] info showed online user
+[2019-08-05T07:18:41.680Z] info user diconnected 1
+[2019-08-05T07:18:41.684Z] info showing user with socketid
+[2019-08-05T07:18:41.748Z] info updated online status of user
+[2019-08-05T07:18:42.629Z] info user diconnected 0
+[2019-08-05T07:18:42.631Z] info showing user with socketid
+[2019-08-05T07:18:42.690Z] info updated online status of user
+[2019-08-05T07:19:32.032Z] info user successfully login
+[2019-08-05T07:19:32.085Z] info user connected : 1
+[2019-08-05T07:19:32.131Z] info inserted online user
+[2019-08-05T07:19:32.133Z] info showed user
+[2019-08-05T07:19:32.176Z] info updated online status of user
+[2019-08-05T07:19:32.178Z] info showed online user
+[2019-08-05T07:19:46.280Z] info user diconnected 0
+[2019-08-05T07:19:46.282Z] info showing user with socketid
+[2019-08-05T07:19:46.342Z] info updated online status of user
+[2019-08-05T07:20:38.245Z] info user successfully login
+[2019-08-05T07:20:38.342Z] info user connected : 1
+[2019-08-05T07:20:38.395Z] info inserted online user
+[2019-08-05T07:20:38.397Z] info showed user
+[2019-08-05T07:20:38.440Z] info updated online status of user
+[2019-08-05T07:20:38.442Z] info showed online user
+[2019-08-05T07:20:50.932Z] info user successfully login
+[2019-08-05T07:20:51.014Z] info user connected : 2
+[2019-08-05T07:20:51.060Z] info inserted online user
+[2019-08-05T07:20:51.061Z] info showed user
+[2019-08-05T07:20:51.105Z] info updated online status of user
+[2019-08-05T07:20:51.107Z] info showed online user
+[2019-08-05T07:24:24.494Z] info user diconnected 1
+[2019-08-05T07:24:24.496Z] info showing user with socketid
+[2019-08-05T07:24:24.503Z] info user diconnected 0
+[2019-08-05T07:24:24.504Z] info showing user with socketid
+[2019-08-05T07:24:24.582Z] info updated online status of user
+[2019-08-05T07:24:24.692Z] info updated online status of user
+[2019-08-05T07:25:19.794Z] info user successfully login
+[2019-08-05T07:25:19.857Z] info user connected : 1
+[2019-08-05T07:25:19.892Z] info inserted online user
+[2019-08-05T07:25:19.894Z] info showed user
+[2019-08-05T07:25:19.948Z] info updated online status of user
+[2019-08-05T07:25:19.949Z] info showed online user
+[2019-08-05T07:25:56.497Z] info user successfully login
+[2019-08-05T07:25:56.578Z] info user connected : 2
+[2019-08-05T07:25:56.631Z] info inserted online user
+[2019-08-05T07:25:56.634Z] info showed user
+[2019-08-05T07:25:56.664Z] info updated online status of user
+[2019-08-05T07:25:56.668Z] info showed online user
+[2019-08-05T07:27:36.991Z] info user diconnected 1
+[2019-08-05T07:27:36.994Z] info showing user with socketid
+[2019-08-05T07:27:37.048Z] info updated online status of user
+[2019-08-05T07:27:38.294Z] info user diconnected 0
+[2019-08-05T07:27:38.295Z] info showing user with socketid
+[2019-08-05T07:27:38.334Z] info updated online status of user
+[2019-08-05T07:29:04.562Z] info user successfully login
+[2019-08-05T07:29:04.833Z] info user connected : 1
+[2019-08-05T07:29:04.918Z] info inserted online user
+[2019-08-05T07:29:04.922Z] info showed user
+[2019-08-05T07:29:04.982Z] info updated online status of user
+[2019-08-05T07:29:04.985Z] info showed online user
+[2019-08-05T07:29:58.678Z] info user diconnected 0
+[2019-08-05T07:29:58.680Z] info showing user with socketid
+[2019-08-05T07:29:58.754Z] info updated online status of user
+[2019-08-05T07:30:54.796Z] info user successfully login
+[2019-08-05T07:30:54.886Z] info user connected : 1
+[2019-08-05T07:30:54.976Z] info inserted online user
+[2019-08-05T07:30:54.977Z] info showed user
+[2019-08-05T07:30:55.043Z] info updated online status of user
+[2019-08-05T07:30:55.044Z] info showed online user
+[2019-08-05T07:31:09.257Z] error enter correct password
+[2019-08-05T07:31:25.776Z] info user successfully login
+[2019-08-05T07:31:25.863Z] info user connected : 2
+[2019-08-05T07:31:25.905Z] info inserted online user
+[2019-08-05T07:31:25.906Z] info showed user
+[2019-08-05T07:31:25.950Z] info updated online status of user
+[2019-08-05T07:31:25.951Z] info showed online user
+[2019-08-05T08:42:38.967Z] info server running 8000
+[2019-08-05T08:49:11.586Z] info user diconnected 1
+[2019-08-05T08:49:11.630Z] info user diconnected 0
+[2019-08-05T08:49:11.641Z] info showing user with socketid
+[2019-08-05T08:49:11.651Z] info showing user with socketid
+[2019-08-05T08:50:24.052Z] info server running 8000
+[2019-08-05T08:56:44.577Z] info server running 8000
+[2019-08-05T08:57:03.722Z] info server running 8000
+[2019-08-05T09:03:13.710Z] info server running 8000
+[2019-08-05T09:04:38.297Z] info user successfully login
+[2019-08-05T09:04:38.396Z] info user connected : 1
+[2019-08-05T09:04:38.447Z] info inserted online user
+[2019-08-05T09:04:38.452Z] info showed user
+[2019-08-05T09:04:38.480Z] info updated online status of user
+[2019-08-05T09:04:38.483Z] info showed online user
+[2019-08-05T09:04:57.039Z] info user successfully login
+[2019-08-05T09:04:57.131Z] info user connected : 2
+[2019-08-05T09:04:57.183Z] info inserted online user
+[2019-08-05T09:04:57.185Z] info showed user
+[2019-08-05T09:04:57.218Z] info updated online status of user
+[2019-08-05T09:04:57.222Z] info showed online user
+[2019-08-05T09:05:27.850Z] info user diconnected 1
+[2019-08-05T09:05:27.855Z] info showing user with socketid
+[2019-08-05T09:05:27.894Z] info updated online status of user
+[2019-08-05T09:05:27.928Z] info deleted online  user
+[2019-08-05T09:05:27.932Z] info showing user with userid
+[2019-08-05T09:05:27.934Z] info showed online user
+[2019-08-05T09:05:35.118Z] info user diconnected 0
+[2019-08-05T09:05:35.119Z] info showing user with socketid
+[2019-08-05T09:05:35.121Z] info deleted online  user
+[2019-08-05T09:05:35.123Z] info showing user with userid
+[2019-08-05T09:05:35.124Z] info showed online user
+[2019-08-05T09:06:00.243Z] info server running 8000
+[2019-08-05T09:07:12.479Z] info server running 8000
+[2019-08-05T09:07:51.879Z] info user successfully login
+[2019-08-05T09:07:51.951Z] info user connected : 1
+[2019-08-05T09:07:51.995Z] info inserted online user
+[2019-08-05T09:07:51.997Z] info showed user
+[2019-08-05T09:07:52.194Z] info updated online status of user
+[2019-08-05T09:07:52.197Z] info showed online user
+[2019-08-05T09:08:32.469Z] info user successfully login
+[2019-08-05T09:08:32.531Z] info user connected : 2
+[2019-08-05T09:08:32.578Z] info inserted online user
+[2019-08-05T09:08:32.579Z] info showed user
+[2019-08-05T09:08:32.611Z] info updated online status of user
+[2019-08-05T09:08:32.613Z] info showed online user
+[2019-08-05T09:08:56.357Z] info user diconnected 1
+[2019-08-05T09:08:56.364Z] info showing user with socketid
+[2019-08-05T09:08:56.414Z] info updated online status of user
+[2019-08-05T09:08:56.458Z] info deleted online  user
+[2019-08-05T09:08:56.461Z] info showing user with userid
+[2019-08-05T09:08:56.467Z] info showed online user
+[2019-08-05T09:09:32.555Z] info user diconnected 0
+[2019-08-05T09:09:32.557Z] info showing user with socketid
+[2019-08-05T09:09:32.566Z] info deleted online  user
+[2019-08-05T09:09:32.568Z] info showing user with userid
+[2019-08-05T09:09:32.570Z] info showed online user
+[2019-08-05T09:10:57.551Z] info server running 8000
+[2019-08-05T09:11:41.324Z] info user successfully login
+[2019-08-05T09:11:41.389Z] info user connected : 1
+[2019-08-05T09:11:41.434Z] info inserted online user
+[2019-08-05T09:11:41.436Z] info showed user
+[2019-08-05T09:11:41.479Z] info updated online status of user
+[2019-08-05T09:11:41.482Z] info showed online user
+[2019-08-05T09:11:56.670Z] info user diconnected 0
+[2019-08-05T09:11:56.673Z] info showing user with socketid
+[2019-08-05T09:11:56.708Z] info updated online status of user
+[2019-08-05T09:11:56.742Z] info deleted online  user
+[2019-08-05T09:11:56.745Z] info showing user with userid
+[2019-08-05T09:11:56.753Z] info showed online user
+[2019-08-05T09:13:38.671Z] info server running 8000
+[2019-08-05T09:16:11.027Z] info user successfully login
+[2019-08-05T09:16:11.103Z] info user connected : 1
+[2019-08-05T09:16:11.166Z] info inserted online user
+[2019-08-05T09:16:11.168Z] info showed user
+[2019-08-05T09:16:11.199Z] info updated online status of user
+[2019-08-05T09:16:11.204Z] info showed online user
+[2019-08-05T09:16:33.119Z] info user successfully login
+[2019-08-05T09:16:33.180Z] info user connected : 2
+[2019-08-05T09:16:33.223Z] info inserted online user
+[2019-08-05T09:16:33.225Z] info showed user
+[2019-08-05T09:16:33.258Z] info updated online status of user
+[2019-08-05T09:16:33.259Z] info showed online user
+[2019-08-05T09:17:05.456Z] info user diconnected 1
+[2019-08-05T09:17:05.459Z] info showing user with socketid
+[2019-08-05T09:17:05.492Z] info updated online status of user
+[2019-08-05T09:17:05.525Z] info deleted online  user
+[2019-08-05T09:17:05.529Z] info showing user with userid
+[2019-08-05T09:17:05.533Z] info showed online user
+[2019-08-05T09:17:25.052Z] info user diconnected 0
+[2019-08-05T09:17:25.055Z] info showing user with socketid
+[2019-08-05T09:17:25.093Z] info updated online status of user
+[2019-08-05T09:17:25.126Z] info deleted online  user
+[2019-08-05T09:17:25.130Z] info showing user with userid
+[2019-08-05T09:17:25.133Z] info showed online user
+[2019-08-05T09:33:11.750Z] info user successfully login
+[2019-08-05T09:33:11.824Z] info user connected : 1
+[2019-08-05T09:33:11.873Z] info inserted online user
+[2019-08-05T09:33:11.877Z] info showed user
+[2019-08-05T09:33:11.918Z] info updated online status of user
+[2019-08-05T09:33:11.919Z] info showed online user
+[2019-08-05T09:33:50.899Z] info user diconnected 0
+[2019-08-05T09:33:50.910Z] info showing user with socketid
+[2019-08-05T09:33:50.969Z] info updated online status of user
+[2019-08-05T09:33:51.026Z] info deleted online  user
+[2019-08-05T09:33:51.028Z] info showing user with userid
+[2019-08-05T09:33:51.029Z] info showed online user
+[2019-08-05T09:34:16.363Z] info user successfully login
+[2019-08-05T09:34:16.427Z] info user connected : 1
+[2019-08-05T09:34:16.477Z] info inserted online user
+[2019-08-05T09:34:16.478Z] info showed user
+[2019-08-05T09:34:16.511Z] info updated online status of user
+[2019-08-05T09:34:16.512Z] info showed online user
+[2019-08-05T09:35:01.891Z] info user diconnected 0
+[2019-08-05T09:35:01.895Z] info showing user with socketid
+[2019-08-05T09:35:01.940Z] info updated online status of user
+[2019-08-05T09:35:01.996Z] info deleted online  user
+[2019-08-05T09:35:02.001Z] info showing user with userid
+[2019-08-05T09:35:02.003Z] info showed online user
+[2019-08-05T09:35:37.925Z] info user successfully login
+[2019-08-05T09:35:38.008Z] info user connected : 1
+[2019-08-05T09:35:38.050Z] info inserted online user
+[2019-08-05T09:35:38.053Z] info showed user
+[2019-08-05T09:35:38.085Z] info updated online status of user
+[2019-08-05T09:35:38.089Z] info showed online user
+[2019-08-05T09:37:13.632Z] info user diconnected 0
+[2019-08-05T09:37:13.637Z] info showing user with socketid
+[2019-08-05T09:37:13.682Z] info updated online status of user
+[2019-08-05T09:37:13.760Z] info deleted online  user
+[2019-08-05T09:37:13.764Z] info showing user with userid
+[2019-08-05T09:37:13.768Z] info showed online user
+[2019-08-05T09:38:10.105Z] info user successfully login
+[2019-08-05T09:38:10.160Z] info user connected : 1
+[2019-08-05T09:38:10.223Z] info inserted online user
+[2019-08-05T09:38:10.224Z] info showed user
+[2019-08-05T09:38:10.268Z] info updated online status of user
+[2019-08-05T09:38:10.269Z] info showed online user
+[2019-08-05T09:40:55.440Z] info user diconnected 0
+[2019-08-05T09:40:55.442Z] info showing user with socketid
+[2019-08-05T09:40:55.492Z] info updated online status of user
+[2019-08-05T09:40:55.536Z] info deleted online  user
+[2019-08-05T09:40:55.538Z] info showing user with userid
+[2019-08-05T09:40:55.540Z] info showed online user
+[2019-08-05T09:41:20.535Z] info user successfully login
+[2019-08-05T09:41:20.608Z] info user connected : 1
+[2019-08-05T09:41:20.666Z] info inserted online user
+[2019-08-05T09:41:20.667Z] info showed user
+[2019-08-05T09:41:20.700Z] info updated online status of user
+[2019-08-05T09:41:20.702Z] info showed online user
+[2019-08-05T09:43:11.576Z] info user diconnected 0
+[2019-08-05T09:43:11.578Z] info showing user with socketid
+[2019-08-05T09:43:11.666Z] info updated online status of user
+[2019-08-05T09:43:11.755Z] info deleted online  user
+[2019-08-05T09:43:11.758Z] info showing user with userid
+[2019-08-05T09:43:11.759Z] info showed online user
+[2019-08-05T09:43:23.593Z] info user successfully login
+[2019-08-05T09:43:23.682Z] info user connected : 1
+[2019-08-05T09:43:23.723Z] info inserted online user
+[2019-08-05T09:43:23.725Z] info showed user
+[2019-08-05T09:43:23.757Z] info updated online status of user
+[2019-08-05T09:43:23.760Z] info showed online user
+[2019-08-05T09:43:50.801Z] info user diconnected 0
+[2019-08-05T09:43:50.807Z] info showing user with socketid
+[2019-08-05T09:43:50.869Z] info updated online status of user
+[2019-08-05T09:43:50.952Z] info deleted online  user
+[2019-08-05T09:43:50.956Z] info showing user with userid
+[2019-08-05T09:43:50.958Z] info showed online user
+[2019-08-05T09:44:12.313Z] info user successfully login
+[2019-08-05T09:44:12.390Z] info user connected : 1
+[2019-08-05T09:44:12.438Z] info inserted online user
+[2019-08-05T09:44:12.440Z] info showed user
+[2019-08-05T09:44:12.494Z] info updated online status of user
+[2019-08-05T09:44:12.496Z] info showed online user
+[2019-08-05T09:46:47.918Z] info user diconnected 0
+[2019-08-05T09:46:47.928Z] info showing user with socketid
+[2019-08-05T09:46:47.985Z] info updated online status of user
+[2019-08-05T09:46:48.041Z] info deleted online  user
+[2019-08-05T09:46:48.043Z] info showing user with userid
+[2019-08-05T09:46:48.045Z] info showed online user
+[2019-08-05T09:47:03.397Z] info user successfully login
+[2019-08-05T09:47:03.480Z] info user connected : 1
+[2019-08-05T09:47:03.539Z] info inserted online user
+[2019-08-05T09:47:03.543Z] info showed user
+[2019-08-05T09:47:03.662Z] info updated online status of user
+[2019-08-05T09:47:03.667Z] info showed online user

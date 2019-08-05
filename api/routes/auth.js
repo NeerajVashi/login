@@ -83,6 +83,12 @@ router.post('/login', [
 		});
 	}
 	const ret = await container.checkData(req.body);
+	
 	await res.json(ret);
 });
+router.get('/users', async (req, res) => {
+	const [users] = await container.getRegisteredUsers();
+	await res.json(users);
+});
 module.exports = router;
+
